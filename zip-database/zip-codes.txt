@@ -1,0 +1,2163 @@
+ZIP Code 15001	Aliquippa	Beaver	Standard
+ZIP Code 15003	Ambridge	Beaver	Standard
+ZIP Code 15004	Atlasburg	Washington	P.O. Box
+ZIP Code 15005	Baden	Beaver	Standard
+ZIP Code 15006	Bairdford	Allegheny	P.O. Box
+ZIP Code 15007	Bakerstown	Allegheny	Standard
+ZIP Code 15009	Beaver	Beaver	Standard
+ZIP Code 15010	Beaver Falls	Beaver	Standard
+ZIP Code 15012	Belle Vernon	Fayette	Standard
+ZIP Code 15014	Brackenridge	Allegheny	Standard
+ZIP Code 15015	Bradfordwoods	Allegheny	Standard
+ZIP Code 15017	Bridgeville	Allegheny	Standard
+ZIP Code 15018	Buena Vista	Allegheny	Standard
+ZIP Code 15019	Bulger	Washington	Standard
+ZIP Code 15020	Bunola	Allegheny	P.O. Box
+ZIP Code 15021	Burgettstown	Washington	Standard
+ZIP Code 15022	Charleroi	Washington	Standard
+ZIP Code 15024	Cheswick	Allegheny	Standard
+ZIP Code 15025	Clairton	Allegheny	Standard
+ZIP Code 15026	Clinton	Beaver	Standard
+ZIP Code 15027	Conway	Beaver	Standard
+ZIP Code 15028	Coulters	Allegheny	P.O. Box
+ZIP Code 15030	Creighton	Allegheny	Standard
+ZIP Code 15031	Cuddy	Allegheny	Standard
+ZIP Code 15032	Curtisville	Allegheny	P.O. Box
+ZIP Code 15033	Donora	Washington	Standard
+ZIP Code 15034	Dravosburg	Allegheny	Standard
+ZIP Code 15035	East Mc Keesport	Allegheny	Standard
+ZIP Code 15037	Elizabeth	Allegheny	Standard
+ZIP Code 15038	Elrama	Washington	P.O. Box
+ZIP Code 15042	Freedom	Beaver	Standard
+ZIP Code 15043	Georgetown	Beaver	Standard
+ZIP Code 15044	Gibsonia	Allegheny	Standard
+ZIP Code 15045	Glassport	Allegheny	Standard
+ZIP Code 15046	Crescent	Allegheny	Standard
+ZIP Code 15047	Greenock	Allegheny	P.O. Box
+ZIP Code 15049	Harwick	Allegheny	Standard
+ZIP Code 15050	Hookstown	Beaver	Standard
+ZIP Code 15051	Indianola	Allegheny	Standard
+ZIP Code 15052	Industry	Beaver	Standard
+ZIP Code 15053	Joffre	Washington	Standard
+ZIP Code 15054	Langeloth	Washington	P.O. Box
+ZIP Code 15055	Lawrence	Washington	Standard
+ZIP Code 15056	Leetsdale	Allegheny	Standard
+ZIP Code 15057	Mc Donald	Washington	Standard
+ZIP Code 15059	Midland	Beaver	Standard
+ZIP Code 15060	Midway	Washington	P.O. Box
+ZIP Code 15061	Monaca	Beaver	Standard
+ZIP Code 15062	Monessen	Westmoreland	Standard
+ZIP Code 15063	Monongahela	Washington	Standard
+ZIP Code 15064	Morgan	Allegheny	Standard
+ZIP Code 15065	Natrona Heights	Allegheny	Standard
+ZIP Code 15066	New Brighton	Beaver	Standard
+ZIP Code 15067	New Eagle	Washington	Standard
+ZIP Code 15068	New Kensington	Westmoreland	Standard
+ZIP Code 15069	New Kensington	Westmoreland	Unique
+ZIP Code 15071	Oakdale	Allegheny	Standard
+ZIP Code 15072	Pricedale	Westmoreland	P.O. Box
+ZIP Code 15074	Rochester	Beaver	Standard
+ZIP Code 15075	Rural Ridge	Allegheny	P.O. Box
+ZIP Code 15076	Russellton	Allegheny	Standard
+ZIP Code 15077	Shippingport	Beaver	P.O. Box
+ZIP Code 15078	Slovan	Washington	Standard
+ZIP Code 15081	South Heights	Beaver	P.O. Box
+ZIP Code 15082	Sturgeon	Allegheny	P.O. Box
+ZIP Code 15083	Sutersville	Westmoreland	Standard
+ZIP Code 15084	Tarentum	Allegheny	Standard
+ZIP Code 15085	Trafford	Westmoreland	Standard
+ZIP Code 15086	Warrendale	Allegheny	Standard
+ZIP Code 15087	Webster	Westmoreland	P.O. Box
+ZIP Code 15088	West Elizabeth	Allegheny	P.O. Box
+ZIP Code 15089	West Newton	Westmoreland	Standard
+ZIP Code 15090	Wexford	Allegheny	Standard
+ZIP Code 15091	Wildwood	Allegheny	P.O. Box
+ZIP Code 15095	Warrendale	Allegheny	P.O. Box
+ZIP Code 15096	Warrendale	Allegheny	Unique
+ZIP Code 15101	Allison Park	Allegheny	Standard
+ZIP Code 15102	Bethel Park	Allegheny	Standard
+ZIP Code 15104	Braddock	Allegheny	Standard
+ZIP Code 15106	Carnegie	Allegheny	Standard
+ZIP Code 15108	Coraopolis	Allegheny	Standard
+ZIP Code 15110	Duquesne	Allegheny	Standard
+ZIP Code 15112	East Pittsburgh	Allegheny	Standard
+ZIP Code 15116	Glenshaw	Allegheny	Standard
+ZIP Code 15120	Homestead	Allegheny	Standard
+ZIP Code 15122	West Mifflin	Allegheny	Standard
+ZIP Code 15126	Imperial	Allegheny	Standard
+ZIP Code 15127	Ingomar	Allegheny	P.O. Box
+ZIP Code 15129	South Park	Allegheny	Standard
+ZIP Code 15131	Mckeesport	Allegheny	Standard
+ZIP Code 15132	Mckeesport	Allegheny	Standard
+ZIP Code 15133	Mckeesport	Allegheny	Standard
+ZIP Code 15134	Mckeesport	Allegheny	P.O. Box
+ZIP Code 15135	Mckeesport	Allegheny	Standard
+ZIP Code 15136	Mc Kees Rocks	Allegheny	Standard
+ZIP Code 15137	North Versailles	Allegheny	Standard
+ZIP Code 15139	Oakmont	Allegheny	Standard
+ZIP Code 15140	Pitcairn	Allegheny	Standard
+ZIP Code 15142	Presto	Allegheny	Standard
+ZIP Code 15143	Sewickley	Allegheny	Standard
+ZIP Code 15144	Springdale	Allegheny	Standard
+ZIP Code 15145	Turtle Creek	Allegheny	Standard
+ZIP Code 15146	Monroeville	Allegheny	Standard
+ZIP Code 15147	Verona	Allegheny	Standard
+ZIP Code 15148	Wilmerding	Allegheny	Standard
+ZIP Code 15201	Pittsburgh	Allegheny	Standard
+ZIP Code 15202	Pittsburgh	Allegheny	Standard
+ZIP Code 15203	Pittsburgh	Allegheny	Standard
+ZIP Code 15204	Pittsburgh	Allegheny	Standard
+ZIP Code 15205	Pittsburgh	Allegheny	Standard
+ZIP Code 15206	Pittsburgh	Allegheny	Standard
+ZIP Code 15207	Pittsburgh	Allegheny	Standard
+ZIP Code 15208	Pittsburgh	Allegheny	Standard
+ZIP Code 15209	Pittsburgh	Allegheny	Standard
+ZIP Code 15210	Pittsburgh	Allegheny	Standard
+ZIP Code 15211	Pittsburgh	Allegheny	Standard
+ZIP Code 15212	Pittsburgh	Allegheny	Standard
+ZIP Code 15213	Pittsburgh	Allegheny	Standard
+ZIP Code 15214	Pittsburgh	Allegheny	Standard
+ZIP Code 15215	Pittsburgh	Allegheny	Standard
+ZIP Code 15216	Pittsburgh	Allegheny	Standard
+ZIP Code 15217	Pittsburgh	Allegheny	Standard
+ZIP Code 15218	Pittsburgh	Allegheny	Standard
+ZIP Code 15219	Pittsburgh	Allegheny	Standard
+ZIP Code 15220	Pittsburgh	Allegheny	Standard
+ZIP Code 15221	Pittsburgh	Allegheny	Standard
+ZIP Code 15222	Pittsburgh	Allegheny	Standard
+ZIP Code 15223	Pittsburgh	Allegheny	Standard
+ZIP Code 15224	Pittsburgh	Allegheny	Standard
+ZIP Code 15225	Pittsburgh	Allegheny	Standard
+ZIP Code 15226	Pittsburgh	Allegheny	Standard
+ZIP Code 15227	Pittsburgh	Allegheny	Standard
+ZIP Code 15228	Pittsburgh	Allegheny	Standard
+ZIP Code 15229	Pittsburgh	Allegheny	Standard
+ZIP Code 15230	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15231	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15232	Pittsburgh	Allegheny	Standard
+ZIP Code 15233	Pittsburgh	Allegheny	Standard
+ZIP Code 15234	Pittsburgh	Allegheny	Standard
+ZIP Code 15235	Pittsburgh	Allegheny	Standard
+ZIP Code 15236	Pittsburgh	Allegheny	Standard
+ZIP Code 15237	Pittsburgh	Allegheny	Standard
+ZIP Code 15238	Pittsburgh	Allegheny	Standard
+ZIP Code 15239	Pittsburgh	Allegheny	Standard
+ZIP Code 15240	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15241	Pittsburgh	Allegheny	Standard
+ZIP Code 15242	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15243	Pittsburgh	Allegheny	Standard
+ZIP Code 15244	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15250	Pittsburgh	Allegheny	Unique
+ZIP Code 15251	Pittsburgh	Allegheny	Unique
+ZIP Code 15252	Pittsburgh	Allegheny	Unique
+ZIP Code 15253	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15254	Pittsburgh	Allegheny	Unique
+ZIP Code 15255	Pittsburgh	Allegheny	Unique
+ZIP Code 15257	Pittsburgh	Allegheny	Unique
+ZIP Code 15258	Pittsburgh	Allegheny	Unique
+ZIP Code 15259	Pittsburgh	Allegheny	Unique
+ZIP Code 15260	Pittsburgh	Allegheny	Standard
+ZIP Code 15261	Pittsburgh	Allegheny	Unique
+ZIP Code 15262	Pittsburgh	Allegheny	Unique
+ZIP Code 15264	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15265	Pittsburgh	Allegheny	Unique
+ZIP Code 15267	Pittsburgh	Allegheny	Unique
+ZIP Code 15268	Pittsburgh	Allegheny	Unique
+ZIP Code 15270	Pittsburgh	Allegheny	Unique
+ZIP Code 15272	Pittsburgh	Allegheny	Standard
+ZIP Code 15274	Pittsburgh	Allegheny	P.O. Box
+ZIP Code 15275	Pittsburgh	Allegheny	Standard
+ZIP Code 15276	Pittsburgh	Allegheny	Standard
+ZIP Code 15277	Pittsburgh	Allegheny	Unique
+ZIP Code 15278	Pittsburgh	Allegheny	Unique
+ZIP Code 15279	Pittsburgh	Allegheny	Unique
+ZIP Code 15281	Pittsburgh	Allegheny	Unique
+ZIP Code 15282	Pittsburgh	Allegheny	Unique
+ZIP Code 15283	Pittsburgh	Allegheny	Unique
+ZIP Code 15286	Pittsburgh	Allegheny	Unique
+ZIP Code 15289	Pittsburgh	Allegheny	Unique
+ZIP Code 15290	Pittsburgh	Allegheny	Standard
+ZIP Code 15295	Pittsburgh	Allegheny	Standard
+ZIP Code 15301	Washington	Washington	Standard
+ZIP Code 15310	Aleppo	Greene	Standard
+ZIP Code 15311	Amity	Washington	Standard
+ZIP Code 15312	Avella	Washington	Standard
+ZIP Code 15313	Beallsville	Washington	P.O. Box
+ZIP Code 15314	Bentleyville	Washington	Standard
+ZIP Code 15315	Bobtown	Greene	P.O. Box
+ZIP Code 15316	Brave	Greene	Standard
+ZIP Code 15317	Canonsburg	Washington	Standard
+ZIP Code 15320	Carmichaels	Greene	Standard
+ZIP Code 15321	Cecil	Washington	Standard
+ZIP Code 15322	Clarksville	Greene	Standard
+ZIP Code 15323	Claysville	Washington	Standard
+ZIP Code 15324	Cokeburg	Washington	P.O. Box
+ZIP Code 15325	Crucible	Greene	P.O. Box
+ZIP Code 15327	Dilliner	Greene	Standard
+ZIP Code 15329	Prosperity	Washington	Standard
+ZIP Code 15330	Eighty Four	Washington	Standard
+ZIP Code 15331	Ellsworth	Washington	P.O. Box
+ZIP Code 15332	Finleyville	Washington	Standard
+ZIP Code 15333	Fredericktown	Washington	Standard
+ZIP Code 15334	Garards Fort	Greene	Standard
+ZIP Code 15336	Gastonville	Washington	P.O. Box
+ZIP Code 15337	Graysville	Greene	Standard
+ZIP Code 15338	Greensboro	Greene	Standard
+ZIP Code 15339	Hendersonville	Washington	P.O. Box
+ZIP Code 15340	Hickory	Washington	Standard
+ZIP Code 15341	Holbrook	Greene	Standard
+ZIP Code 15342	Houston	Washington	Standard
+ZIP Code 15344	Jefferson	Greene	Standard
+ZIP Code 15345	Marianna	Washington	Standard
+ZIP Code 15346	Mather	Greene	P.O. Box
+ZIP Code 15347	Meadow Lands	Washington	P.O. Box
+ZIP Code 15348	Millsboro	Washington	P.O. Box
+ZIP Code 15349	Mount Morris	Greene	Standard
+ZIP Code 15350	Muse	Washington	P.O. Box
+ZIP Code 15351	Nemacolin	Greene	P.O. Box
+ZIP Code 15352	New Freeport	Greene	Standard
+ZIP Code 15353	Nineveh	Greene	P.O. Box
+ZIP Code 15357	Rices Landing	Greene	Standard
+ZIP Code 15358	Richeyville	Washington	P.O. Box
+ZIP Code 15359	Rogersville	Greene	Standard
+ZIP Code 15360	Scenery Hill	Washington	Standard
+ZIP Code 15361	Southview	Washington	P.O. Box
+ZIP Code 15362	Spraggs	Greene	Standard
+ZIP Code 15363	Strabane	Washington	Standard
+ZIP Code 15364	Sycamore	Greene	Standard
+ZIP Code 15365	Taylorstown	Washington	P.O. Box
+ZIP Code 15366	Van Voorhis	Washington	P.O. Box
+ZIP Code 15367	Venetia	Washington	Standard
+ZIP Code 15368	Vestaburg	Washington	P.O. Box
+ZIP Code 15370	Waynesburg	Greene	Standard
+ZIP Code 15376	West Alexander	Washington	Standard
+ZIP Code 15377	West Finley	Washington	Standard
+ZIP Code 15378	Westland	Washington	P.O. Box
+ZIP Code 15379	West Middletown	Washington	P.O. Box
+ZIP Code 15380	Wind Ridge	Greene	Standard
+ZIP Code 15401	Uniontown	Fayette	Standard
+ZIP Code 15410	Adah	Fayette	Standard
+ZIP Code 15411	Addison	Somerset	Standard
+ZIP Code 15412	Allenport	Washington	P.O. Box
+ZIP Code 15413	Allison	Fayette	Standard
+ZIP Code 15415	Brier Hill	Fayette	P.O. Box
+ZIP Code 15416	Brownfield	Fayette	P.O. Box
+ZIP Code 15417	Brownsville	Fayette	Standard
+ZIP Code 15419	California	Washington	Standard
+ZIP Code 15420	Cardale	Fayette	P.O. Box
+ZIP Code 15421	Chalk Hill	Fayette	P.O. Box
+ZIP Code 15422	Chestnut Ridge	Fayette	P.O. Box
+ZIP Code 15423	Coal Center	Washington	Standard
+ZIP Code 15424	Confluence	Somerset	Standard
+ZIP Code 15425	Connellsville	Fayette	Standard
+ZIP Code 15427	Daisytown	Washington	Standard
+ZIP Code 15428	Dawson	Fayette	Standard
+ZIP Code 15429	Denbo	Washington	P.O. Box
+ZIP Code 15430	Dickerson Run	Fayette	P.O. Box
+ZIP Code 15431	Dunbar	Fayette	Standard
+ZIP Code 15432	Dunlevy	Washington	P.O. Box
+ZIP Code 15433	East Millsboro	Fayette	Standard
+ZIP Code 15434	Elco	Washington	P.O. Box
+ZIP Code 15435	Fairbank	Fayette	P.O. Box
+ZIP Code 15436	Fairchance	Fayette	Standard
+ZIP Code 15437	Farmington	Fayette	Standard
+ZIP Code 15438	Fayette City	Fayette	Standard
+ZIP Code 15439	Gans	Fayette	P.O. Box
+ZIP Code 15440	Gibbon Glade	Fayette	Standard
+ZIP Code 15442	Grindstone	Fayette	Standard
+ZIP Code 15443	Hibbs	Fayette	P.O. Box
+ZIP Code 15444	Hiller	Fayette	Standard
+ZIP Code 15445	Hopwood	Fayette	Standard
+ZIP Code 15446	Indian Head	Fayette	Standard
+ZIP Code 15447	Isabella	Fayette	P.O. Box
+ZIP Code 15448	Jacobs Creek	Westmoreland	P.O. Box
+ZIP Code 15449	Keisterville	Fayette	P.O. Box
+ZIP Code 15450	La Belle	Fayette	Standard
+ZIP Code 15451	Lake Lynn	Fayette	Standard
+ZIP Code 15454	Leckrone	Fayette	P.O. Box
+ZIP Code 15455	Leisenring	Fayette	P.O. Box
+ZIP Code 15456	Lemont Furnace	Fayette	Standard
+ZIP Code 15458	Mc Clellandtown	Fayette	Standard
+ZIP Code 15459	Markleysburg	Fayette	Standard
+ZIP Code 15460	Martin	Fayette	P.O. Box
+ZIP Code 15461	Masontown	Fayette	Standard
+ZIP Code 15462	Melcroft	Fayette	Standard
+ZIP Code 15463	Merrittstown	Fayette	P.O. Box
+ZIP Code 15464	Mill Run	Fayette	Standard
+ZIP Code 15465	Mount Braddock	Fayette	P.O. Box
+ZIP Code 15466	Newell	Fayette	P.O. Box
+ZIP Code 15467	New Geneva	Fayette	P.O. Box
+ZIP Code 15468	New Salem	Fayette	Standard
+ZIP Code 15469	Normalville	Fayette	Standard
+ZIP Code 15470	Ohiopyle	Fayette	Standard
+ZIP Code 15472	Oliver	Fayette	P.O. Box
+ZIP Code 15473	Perryopolis	Fayette	Standard
+ZIP Code 15474	Point Marion	Fayette	Standard
+ZIP Code 15475	Republic	Fayette	P.O. Box
+ZIP Code 15476	Ronco	Fayette	P.O. Box
+ZIP Code 15477	Roscoe	Washington	P.O. Box
+ZIP Code 15478	Smithfield	Fayette	Standard
+ZIP Code 15479	Smithton	Westmoreland	Standard
+ZIP Code 15480	Smock	Fayette	Standard
+ZIP Code 15482	Star Junction	Fayette	P.O. Box
+ZIP Code 15483	Stockdale	Washington	P.O. Box
+ZIP Code 15484	Uledi	Fayette	P.O. Box
+ZIP Code 15485	Ursina	Somerset	P.O. Box
+ZIP Code 15486	Vanderbilt	Fayette	Standard
+ZIP Code 15488	Waltersburg	Fayette	Standard
+ZIP Code 15489	West Leisenring	Fayette	P.O. Box
+ZIP Code 15490	White	Fayette	Standard
+ZIP Code 15492	Wickhaven	Fayette	P.O. Box
+ZIP Code 15501	Somerset	Somerset	Standard
+ZIP Code 15502	Hidden Valley	Somerset	P.O. Box
+ZIP Code 15510	Somerset	Somerset	Unique
+ZIP Code 15520	Acosta	Somerset	P.O. Box
+ZIP Code 15521	Alum Bank	Bedford	Standard
+ZIP Code 15522	Bedford	Bedford	Standard
+ZIP Code 15530	Berlin	Somerset	Standard
+ZIP Code 15531	Boswell	Somerset	Standard
+ZIP Code 15532	Boynton	Somerset	P.O. Box
+ZIP Code 15533	Breezewood	Bedford	Standard
+ZIP Code 15534	Buffalo Mills	Bedford	Standard
+ZIP Code 15535	Clearville	Bedford	Standard
+ZIP Code 15536	Crystal Spring	Fulton	Standard
+ZIP Code 15537	Everett	Bedford	Standard
+ZIP Code 15538	Fairhope	Somerset	Standard
+ZIP Code 15539	Fishertown	Bedford	Standard
+ZIP Code 15540	Fort Hill	Somerset	Standard
+ZIP Code 15541	Friedens	Somerset	Standard
+ZIP Code 15542	Garrett	Somerset	Standard
+ZIP Code 15544	Gray	Somerset	P.O. Box
+ZIP Code 15545	Hyndman	Bedford	Standard
+ZIP Code 15546	Jenners	Somerset	Standard
+ZIP Code 15547	Jennerstown	Somerset	P.O. Box
+ZIP Code 15548	Kantner	Somerset	Standard
+ZIP Code 15549	Listie	Somerset	P.O. Box
+ZIP Code 15550	Manns Choice	Bedford	Standard
+ZIP Code 15551	Markleton	Somerset	Standard
+ZIP Code 15552	Meyersdale	Somerset	Standard
+ZIP Code 15553	New Baltimore	Somerset	P.O. Box
+ZIP Code 15554	New Paris	Bedford	Standard
+ZIP Code 15555	Quecreek	Somerset	P.O. Box
+ZIP Code 15557	Rockwood	Somerset	Standard
+ZIP Code 15558	Salisbury	Somerset	Standard
+ZIP Code 15559	Schellsburg	Bedford	Standard
+ZIP Code 15560	Shanksville	Somerset	P.O. Box
+ZIP Code 15561	Sipesville	Somerset	P.O. Box
+ZIP Code 15562	Springs	Somerset	Standard
+ZIP Code 15563	Stoystown	Somerset	Standard
+ZIP Code 15564	Wellersburg	Somerset	Standard
+ZIP Code 15565	West Salisbury	Somerset	Standard
+ZIP Code 15601	Greensburg	Westmoreland	Standard
+ZIP Code 15605	Greensburg	Westmoreland	Unique
+ZIP Code 15606	Greensburg	Westmoreland	Unique
+ZIP Code 15610	Acme	Westmoreland	Standard
+ZIP Code 15611	Adamsburg	Westmoreland	Standard
+ZIP Code 15612	Alverton	Westmoreland	Standard
+ZIP Code 15613	Apollo	Westmoreland	Standard
+ZIP Code 15615	Ardara	Westmoreland	Standard
+ZIP Code 15616	Armbrust	Westmoreland	P.O. Box
+ZIP Code 15617	Arona	Westmoreland	P.O. Box
+ZIP Code 15618	Avonmore	Westmoreland	Standard
+ZIP Code 15619	Bovard	Westmoreland	P.O. Box
+ZIP Code 15620	Bradenville	Westmoreland	Standard
+ZIP Code 15621	Calumet	Westmoreland	P.O. Box
+ZIP Code 15622	Champion	Westmoreland	Standard
+ZIP Code 15623	Claridge	Westmoreland	Standard
+ZIP Code 15624	Crabtree	Westmoreland	P.O. Box
+ZIP Code 15625	Darragh	Westmoreland	P.O. Box
+ZIP Code 15626	Delmont	Westmoreland	Standard
+ZIP Code 15627	Derry	Westmoreland	Standard
+ZIP Code 15628	Donegal	Westmoreland	Standard
+ZIP Code 15629	East Vandergrift	Westmoreland	P.O. Box
+ZIP Code 15631	Everson	Fayette	P.O. Box
+ZIP Code 15632	Export	Westmoreland	Standard
+ZIP Code 15633	Forbes Road	Westmoreland	P.O. Box
+ZIP Code 15634	Grapeville	Westmoreland	Standard
+ZIP Code 15635	Hannastown	Westmoreland	P.O. Box
+ZIP Code 15636	Harrison City	Westmoreland	Standard
+ZIP Code 15637	Herminie	Westmoreland	Standard
+ZIP Code 15638	Hostetter	Westmoreland	P.O. Box
+ZIP Code 15639	Hunker	Westmoreland	Standard
+ZIP Code 15640	Hutchinson	Westmoreland	P.O. Box
+ZIP Code 15641	Hyde Park	Westmoreland	Standard
+ZIP Code 15642	Irwin	Westmoreland	Standard
+ZIP Code 15644	Jeannette	Westmoreland	Standard
+ZIP Code 15646	Jones Mills	Westmoreland	Standard
+ZIP Code 15647	Larimer	Westmoreland	Standard
+ZIP Code 15650	Latrobe	Westmoreland	Standard
+ZIP Code 15655	Laughlintown	Westmoreland	Standard
+ZIP Code 15656	Leechburg	Armstrong	Standard
+ZIP Code 15658	Ligonier	Westmoreland	Standard
+ZIP Code 15660	Lowber	Westmoreland	P.O. Box
+ZIP Code 15661	Loyalhanna	Westmoreland	Standard
+ZIP Code 15662	Luxor	Westmoreland	P.O. Box
+ZIP Code 15663	Madison	Westmoreland	P.O. Box
+ZIP Code 15664	Mammoth	Westmoreland	P.O. Box
+ZIP Code 15665	Manor	Westmoreland	Standard
+ZIP Code 15666	Mount Pleasant	Westmoreland	Standard
+ZIP Code 15668	Murrysville	Westmoreland	Standard
+ZIP Code 15670	New Alexandria	Westmoreland	Standard
+ZIP Code 15671	New Derry	Westmoreland	Standard
+ZIP Code 15672	New Stanton	Westmoreland	Standard
+ZIP Code 15673	North Apollo	Armstrong	P.O. Box
+ZIP Code 15674	Norvelt	Westmoreland	P.O. Box
+ZIP Code 15675	Penn	Westmoreland	Standard
+ZIP Code 15676	Pleasant Unity	Westmoreland	P.O. Box
+ZIP Code 15677	Rector	Westmoreland	Standard
+ZIP Code 15678	Rillton	Westmoreland	Standard
+ZIP Code 15679	Ruffs Dale	Westmoreland	Standard
+ZIP Code 15680	Salina	Westmoreland	P.O. Box
+ZIP Code 15681	Saltsburg	Indiana	Standard
+ZIP Code 15682	Schenley	Armstrong	P.O. Box
+ZIP Code 15683	Scottdale	Westmoreland	Standard
+ZIP Code 15684	Slickville	Westmoreland	Standard
+ZIP Code 15685	Southwest	Westmoreland	P.O. Box
+ZIP Code 15686	Spring Church	Armstrong	Standard
+ZIP Code 15687	Stahlstown	Westmoreland	Standard
+ZIP Code 15688	Tarrs	Westmoreland	Standard
+ZIP Code 15689	United	Westmoreland	P.O. Box
+ZIP Code 15690	Vandergrift	Westmoreland	Standard
+ZIP Code 15691	Wendel	Westmoreland	P.O. Box
+ZIP Code 15692	Westmoreland City	Westmoreland	Standard
+ZIP Code 15693	Whitney	Westmoreland	P.O. Box
+ZIP Code 15695	Wyano	Westmoreland	P.O. Box
+ZIP Code 15696	Youngstown	Westmoreland	P.O. Box
+ZIP Code 15697	Youngwood	Westmoreland	Standard
+ZIP Code 15698	Yukon	Westmoreland	Standard
+ZIP Code 15701	Indiana	Indiana	Standard
+ZIP Code 15705	Indiana	Indiana	Unique
+ZIP Code 15710	Alverda	Indiana	P.O. Box
+ZIP Code 15711	Anita	Jefferson	Standard
+ZIP Code 15712	Arcadia	Indiana	P.O. Box
+ZIP Code 15713	Aultman	Indiana	Standard
+ZIP Code 15714	Northern Cambria	Cambria	Standard
+ZIP Code 15715	Big Run	Jefferson	P.O. Box
+ZIP Code 15716	Black Lick	Indiana	P.O. Box
+ZIP Code 15717	Blairsville	Indiana	Standard
+ZIP Code 15720	Brush Valley	Indiana	P.O. Box
+ZIP Code 15721	Burnside	Clearfield	P.O. Box
+ZIP Code 15722	Carrolltown	Cambria	Standard
+ZIP Code 15723	Chambersville	Indiana	P.O. Box
+ZIP Code 15724	Cherry Tree	Indiana	Standard
+ZIP Code 15725	Clarksburg	Indiana	Standard
+ZIP Code 15727	Clune	Indiana	P.O. Box
+ZIP Code 15728	Clymer	Indiana	Standard
+ZIP Code 15729	Commodore	Indiana	Standard
+ZIP Code 15730	Coolspring	Jefferson	Standard
+ZIP Code 15731	Coral	Indiana	P.O. Box
+ZIP Code 15732	Creekside	Indiana	Standard
+ZIP Code 15733	De Lancey	Jefferson	P.O. Box
+ZIP Code 15734	Dixonville	Indiana	P.O. Box
+ZIP Code 15736	Elderton	Armstrong	P.O. Box
+ZIP Code 15737	Elmora	Cambria	P.O. Box
+ZIP Code 15738	Emeigh	Cambria	P.O. Box
+ZIP Code 15739	Ernest	Indiana	P.O. Box
+ZIP Code 15741	Gipsy	Indiana	P.O. Box
+ZIP Code 15742	Glen Campbell	Indiana	Standard
+ZIP Code 15744	Hamilton	Jefferson	Standard
+ZIP Code 15745	Heilwood	Indiana	P.O. Box
+ZIP Code 15746	Hillsdale	Indiana	P.O. Box
+ZIP Code 15747	Home	Indiana	Standard
+ZIP Code 15748	Homer City	Indiana	Standard
+ZIP Code 15750	Josephine	Indiana	Standard
+ZIP Code 15752	Kent	Indiana	P.O. Box
+ZIP Code 15753	La Jose	Clearfield	Standard
+ZIP Code 15754	Lucernemines	Indiana	P.O. Box
+ZIP Code 15756	Mc Intyre	Indiana	P.O. Box
+ZIP Code 15757	Mahaffey	Clearfield	Standard
+ZIP Code 15757	Mcgees Mills	Clearfield	Standard
+ZIP Code 15758	Marchand	Indiana	Standard
+ZIP Code 15759	Marion Center	Indiana	Standard
+ZIP Code 15760	Marsteller	Cambria	Standard
+ZIP Code 15761	Mentcle	Indiana	Standard
+ZIP Code 15762	Nicktown	Cambria	Standard
+ZIP Code 15763	Northpoint	Indiana	Standard
+ZIP Code 15764	Oliveburg	Jefferson	Standard
+ZIP Code 15765	Penn Run	Indiana	Standard
+ZIP Code 15767	Punxsutawney	Jefferson	Standard
+ZIP Code 15770	Ringgold	Jefferson	Standard
+ZIP Code 15771	Rochester Mills	Indiana	Standard
+ZIP Code 15772	Rossiter	Indiana	Standard
+ZIP Code 15773	Saint Benedict	Cambria	Standard
+ZIP Code 15774	Shelocta	Indiana	Standard
+ZIP Code 15775	Spangler	Cambria	Standard
+ZIP Code 15776	Sprankle Mills	Jefferson	Standard
+ZIP Code 15777	Starford	Indiana	Standard
+ZIP Code 15778	Timblin	Jefferson	Standard
+ZIP Code 15779	Torrance	Westmoreland	P.O. Box
+ZIP Code 15780	Valier	Jefferson	Standard
+ZIP Code 15781	Walston	Jefferson	P.O. Box
+ZIP Code 15783	West Lebanon	Indiana	P.O. Box
+ZIP Code 15784	Worthville	Jefferson	Standard
+ZIP Code 15801	Du Bois	Clearfield	Standard
+ZIP Code 15821	Benezett	Elk	Standard
+ZIP Code 15822	Brandy Camp	Elk	Standard
+ZIP Code 15823	Brockport	Elk	Standard
+ZIP Code 15824	Brockway	Jefferson	Standard
+ZIP Code 15825	Brookville	Jefferson	Standard
+ZIP Code 15827	Byrnedale	Elk	Standard
+ZIP Code 15828	Clarington	Forest	Standard
+ZIP Code 15829	Corsica	Jefferson	Standard
+ZIP Code 15831	Dagus Mines	Elk	P.O. Box
+ZIP Code 15832	Driftwood	Cameron	Standard
+ZIP Code 15834	Emporium	Cameron	Standard
+ZIP Code 15840	Falls Creek	Jefferson	Standard
+ZIP Code 15841	Force	Elk	P.O. Box
+ZIP Code 15845	Johnsonburg	Elk	Standard
+ZIP Code 15846	Kersey	Elk	Standard
+ZIP Code 15847	Knox Dale	Jefferson	P.O. Box
+ZIP Code 15848	Luthersburg	Clearfield	Standard
+ZIP Code 15849	Penfield	Clearfield	Standard
+ZIP Code 15851	Reynoldsville	Jefferson	Standard
+ZIP Code 15853	Ridgway	Elk	Standard
+ZIP Code 15856	Rockton	Clearfield	Standard
+ZIP Code 15857	Saint Marys	Elk	Standard
+ZIP Code 15860	Sigel	Jefferson	Standard
+ZIP Code 15861	Sinnamahoning	Cameron	Standard
+ZIP Code 15863	Stump Creek	Jefferson	P.O. Box
+ZIP Code 15864	Summerville	Jefferson	Standard
+ZIP Code 15865	Sykesville	Jefferson	Standard
+ZIP Code 15866	Troutville	Clearfield	Standard
+ZIP Code 15868	Weedville	Elk	Standard
+ZIP Code 15870	Wilcox	Elk	Standard
+ZIP Code 15901	Johnstown	Cambria	Standard
+ZIP Code 15902	Johnstown	Cambria	Standard
+ZIP Code 15904	Johnstown	Cambria	Standard
+ZIP Code 15905	Johnstown	Cambria	Standard
+ZIP Code 15906	Johnstown	Cambria	Standard
+ZIP Code 15907	Johnstown	Cambria	P.O. Box
+ZIP Code 15909	Johnstown	Cambria	Standard
+ZIP Code 15915	Johnstown	Cambria	Standard
+ZIP Code 15920	Armagh	Indiana	Standard
+ZIP Code 15921	Beaverdale	Cambria	P.O. Box
+ZIP Code 15922	Belsano	Cambria	P.O. Box
+ZIP Code 15923	Bolivar	Westmoreland	Standard
+ZIP Code 15924	Cairnbrook	Somerset	Standard
+ZIP Code 15925	Cassandra	Cambria	P.O. Box
+ZIP Code 15926	Central City	Somerset	Standard
+ZIP Code 15927	Colver	Cambria	Standard
+ZIP Code 15928	Davidsville	Somerset	Standard
+ZIP Code 15929	Dilltown	Indiana	P.O. Box
+ZIP Code 15930	Dunlo	Cambria	P.O. Box
+ZIP Code 15931	Ebensburg	Cambria	Standard
+ZIP Code 15934	Elton	Cambria	P.O. Box
+ZIP Code 15935	Hollsopple	Somerset	Standard
+ZIP Code 15936	Hooversville	Somerset	Standard
+ZIP Code 15937	Jerome	Somerset	P.O. Box
+ZIP Code 15938	Lilly	Cambria	Standard
+ZIP Code 15940	Loretto	Cambria	Standard
+ZIP Code 15942	Mineral Point	Cambria	Standard
+ZIP Code 15943	Nanty Glo	Cambria	Standard
+ZIP Code 15944	New Florence	Westmoreland	Standard
+ZIP Code 15945	Parkhill	Cambria	Standard
+ZIP Code 15946	Portage	Cambria	Standard
+ZIP Code 15948	Revloc	Cambria	P.O. Box
+ZIP Code 15949	Robinson	Indiana	Standard
+ZIP Code 15951	Saint Michael	Cambria	P.O. Box
+ZIP Code 15952	Salix	Cambria	Standard
+ZIP Code 15953	Seanor	Somerset	Standard
+ZIP Code 15954	Seward	Westmoreland	Standard
+ZIP Code 15955	Sidman	Cambria	Standard
+ZIP Code 15956	South Fork	Cambria	Standard
+ZIP Code 15957	Strongstown	Indiana	Standard
+ZIP Code 15958	Summerhill	Cambria	Standard
+ZIP Code 15959	Tire Hill	Somerset	P.O. Box
+ZIP Code 15960	Twin Rocks	Cambria	P.O. Box
+ZIP Code 15961	Vintondale	Cambria	Standard
+ZIP Code 15962	Wilmore	Cambria	P.O. Box
+ZIP Code 15963	Windber	Somerset	Standard
+ZIP Code 16001	Butler	Butler	Standard
+ZIP Code 16002	Butler	Butler	Standard
+ZIP Code 16003	Butler	Butler	P.O. Box
+ZIP Code 16016	Boyers	Butler	Unique
+ZIP Code 16017	Boyers	Butler	Unique
+ZIP Code 16018	Boyers	Butler	Unique
+ZIP Code 16020	Boyers	Butler	Standard
+ZIP Code 16022	Bruin	Butler	P.O. Box
+ZIP Code 16023	Cabot	Butler	Standard
+ZIP Code 16024	Callery	Butler	P.O. Box
+ZIP Code 16025	Chicora	Butler	Standard
+ZIP Code 16027	Connoquenessing	Butler	P.O. Box
+ZIP Code 16028	East Brady	Clarion	Standard
+ZIP Code 16029	East Butler	Butler	P.O. Box
+ZIP Code 16030	Eau Claire	Butler	P.O. Box
+ZIP Code 16033	Evans City	Butler	Standard
+ZIP Code 16034	Fenelton	Butler	Standard
+ZIP Code 16035	Forestville	Butler	P.O. Box
+ZIP Code 16036	Foxburg	Clarion	P.O. Box
+ZIP Code 16037	Harmony	Butler	Standard
+ZIP Code 16038	Harrisville	Butler	Standard
+ZIP Code 16039	Herman	Butler	P.O. Box
+ZIP Code 16040	Hilliards	Butler	Standard
+ZIP Code 16041	Karns City	Butler	Standard
+ZIP Code 16045	Lyndora	Butler	Standard
+ZIP Code 16046	Mars	Butler	Standard
+ZIP Code 16048	North Washington	Butler	P.O. Box
+ZIP Code 16049	Parker	Armstrong	Standard
+ZIP Code 16050	Petrolia	Butler	Standard
+ZIP Code 16051	Portersville	Butler	Standard
+ZIP Code 16052	Prospect	Butler	Standard
+ZIP Code 16053	Renfrew	Butler	Standard
+ZIP Code 16054	Saint Petersburg	Clarion	P.O. Box
+ZIP Code 16055	Sarver	Butler	Standard
+ZIP Code 16056	Saxonburg	Butler	Standard
+ZIP Code 16057	Slippery Rock	Butler	Standard
+ZIP Code 16058	Turkey City	Clarion	P.O. Box
+ZIP Code 16059	Valencia	Butler	Standard
+ZIP Code 16061	West Sunbury	Butler	Standard
+ZIP Code 16063	Zelienople	Butler	Standard
+ZIP Code 16066	Cranberry Township	Butler	Standard
+ZIP Code 16101	New Castle	Lawrence	Standard
+ZIP Code 16102	New Castle	Lawrence	Standard
+ZIP Code 16103	New Castle	Lawrence	P.O. Box
+ZIP Code 16105	New Castle	Lawrence	Standard
+ZIP Code 16107	New Castle	Lawrence	P.O. Box
+ZIP Code 16108	New Castle	Lawrence	Standard
+ZIP Code 16110	Adamsville	Crawford	Standard
+ZIP Code 16111	Atlantic	Crawford	Standard
+ZIP Code 16112	Bessemer	Lawrence	Standard
+ZIP Code 16113	Clark	Mercer	P.O. Box
+ZIP Code 16114	Clarks Mills	Mercer	Standard
+ZIP Code 16115	Darlington	Beaver	Standard
+ZIP Code 16116	Edinburg	Lawrence	Standard
+ZIP Code 16117	Ellwood City	Lawrence	Standard
+ZIP Code 16120	Enon Valley	Lawrence	Standard
+ZIP Code 16121	Farrell	Mercer	Standard
+ZIP Code 16123	Fombell	Beaver	Standard
+ZIP Code 16124	Fredonia	Mercer	Standard
+ZIP Code 16125	Greenville	Mercer	Standard
+ZIP Code 16127	Grove City	Mercer	Standard
+ZIP Code 16130	Hadley	Mercer	Standard
+ZIP Code 16131	Hartstown	Crawford	Standard
+ZIP Code 16132	Hillsville	Lawrence	P.O. Box
+ZIP Code 16133	Jackson Center	Mercer	Standard
+ZIP Code 16134	Jamestown	Mercer	Standard
+ZIP Code 16136	Koppel	Beaver	P.O. Box
+ZIP Code 16137	Mercer	Mercer	Standard
+ZIP Code 16140	New Bedford	Lawrence	P.O. Box
+ZIP Code 16141	New Galilee	Beaver	Standard
+ZIP Code 16142	New Wilmington	Lawrence	Standard
+ZIP Code 16143	Pulaski	Lawrence	Standard
+ZIP Code 16145	Sandy Lake	Mercer	Standard
+ZIP Code 16146	Sharon	Mercer	Standard
+ZIP Code 16148	Hermitage	Mercer	Standard
+ZIP Code 16150	Sharpsville	Mercer	Standard
+ZIP Code 16151	Sheakleyville	Mercer	P.O. Box
+ZIP Code 16153	Stoneboro	Mercer	Standard
+ZIP Code 16154	Transfer	Mercer	Standard
+ZIP Code 16155	Villa Maria	Lawrence	P.O. Box
+ZIP Code 16156	Volant	Lawrence	Standard
+ZIP Code 16157	Wampum	Lawrence	Standard
+ZIP Code 16159	West Middlesex	Mercer	Standard
+ZIP Code 16160	West Pittsburg	Lawrence	P.O. Box
+ZIP Code 16161	Wheatland	Mercer	P.O. Box
+ZIP Code 16172	New Wilmington	Lawrence	Unique
+ZIP Code 16201	Kittanning	Armstrong	Standard
+ZIP Code 16210	Adrian	Armstrong	Standard
+ZIP Code 16211	Beyer	Indiana	P.O. Box
+ZIP Code 16212	Cadogan	Armstrong	P.O. Box
+ZIP Code 16213	Callensburg	Clarion	P.O. Box
+ZIP Code 16214	Clarion	Clarion	Standard
+ZIP Code 16217	Cooksburg	Forest	Standard
+ZIP Code 16218	Cowansville	Armstrong	Standard
+ZIP Code 16220	Crown	Clarion	P.O. Box
+ZIP Code 16221	Curllsville	Clarion	P.O. Box
+ZIP Code 16222	Dayton	Armstrong	Standard
+ZIP Code 16223	Distant	Armstrong	P.O. Box
+ZIP Code 16224	Fairmount City	Clarion	Standard
+ZIP Code 16225	Fisher	Clarion	P.O. Box
+ZIP Code 16226	Ford City	Armstrong	Standard
+ZIP Code 16228	Ford Cliff	Armstrong	Standard
+ZIP Code 16229	Freeport	Armstrong	Standard
+ZIP Code 16230	Hawthorn	Clarion	P.O. Box
+ZIP Code 16232	Knox	Clarion	Standard
+ZIP Code 16233	Leeper	Clarion	Standard
+ZIP Code 16234	Limestone	Clarion	P.O. Box
+ZIP Code 16235	Lucinda	Clarion	Standard
+ZIP Code 16236	Mc Grann	Armstrong	P.O. Box
+ZIP Code 16238	Manorville	Armstrong	P.O. Box
+ZIP Code 16239	Marienville	Forest	Standard
+ZIP Code 16240	Mayport	Clarion	Standard
+ZIP Code 16242	New Bethlehem	Clarion	Standard
+ZIP Code 16244	Nu Mine	Armstrong	P.O. Box
+ZIP Code 16245	Oak Ridge	Armstrong	P.O. Box
+ZIP Code 16246	Plumville	Indiana	P.O. Box
+ZIP Code 16248	Rimersburg	Clarion	Standard
+ZIP Code 16249	Rural Valley	Armstrong	Standard
+ZIP Code 16250	Sagamore	Armstrong	P.O. Box
+ZIP Code 16253	Seminole	Armstrong	Standard
+ZIP Code 16254	Shippenville	Clarion	Standard
+ZIP Code 16255	Sligo	Clarion	Standard
+ZIP Code 16256	Smicksburg	Indiana	Standard
+ZIP Code 16257	Snydersburg	Clarion	Standard
+ZIP Code 16258	Strattanville	Clarion	Standard
+ZIP Code 16259	Templeton	Armstrong	Standard
+ZIP Code 16260	Vowinckel	Clarion	Standard
+ZIP Code 16261	Widnoon	Armstrong	Standard
+ZIP Code 16262	Worthington	Armstrong	Standard
+ZIP Code 16263	Yatesboro	Armstrong	P.O. Box
+ZIP Code 16301	Oil City	Venango	Standard
+ZIP Code 16311	Carlton	Mercer	Standard
+ZIP Code 16312	Chandlers Valley	Warren	P.O. Box
+ZIP Code 16313	Clarendon	Warren	Standard
+ZIP Code 16314	Cochranton	Crawford	Standard
+ZIP Code 16316	Conneaut Lake	Crawford	Standard
+ZIP Code 16317	Cooperstown	Venango	Standard
+ZIP Code 16319	Cranberry	Venango	Standard
+ZIP Code 16321	East Hickory	Forest	P.O. Box
+ZIP Code 16322	Endeavor	Forest	P.O. Box
+ZIP Code 16323	Franklin	Venango	Standard
+ZIP Code 16326	Fryburg	Clarion	Standard
+ZIP Code 16327	Guys Mills	Crawford	Standard
+ZIP Code 16328	Hydetown	Crawford	P.O. Box
+ZIP Code 16329	Irvine	Warren	Standard
+ZIP Code 16331	Kossuth	Clarion	Standard
+ZIP Code 16332	Lickingville	Clarion	Standard
+ZIP Code 16333	Ludlow	Mckean	P.O. Box
+ZIP Code 16334	Marble	Clarion	Standard
+ZIP Code 16335	Meadville	Crawford	Standard
+ZIP Code 16340	Pittsfield	Warren	Standard
+ZIP Code 16341	Pleasantville	Venango	Standard
+ZIP Code 16342	Polk	Venango	Standard
+ZIP Code 16343	Reno	Venango	P.O. Box
+ZIP Code 16344	Rouseville	Venango	P.O. Box
+ZIP Code 16345	Russell	Warren	Standard
+ZIP Code 16346	Seneca	Venango	Standard
+ZIP Code 16347	Sheffield	Warren	Standard
+ZIP Code 16350	Sugar Grove	Warren	Standard
+ZIP Code 16351	Tidioute	Warren	Standard
+ZIP Code 16352	Tiona	Warren	P.O. Box
+ZIP Code 16353	Tionesta	Forest	Standard
+ZIP Code 16354	Titusville	Crawford	Standard
+ZIP Code 16360	Townville	Crawford	Standard
+ZIP Code 16361	Tylersburg	Clarion	P.O. Box
+ZIP Code 16362	Utica	Venango	Standard
+ZIP Code 16364	Venus	Venango	Standard
+ZIP Code 16365	Warren	Warren	Standard
+ZIP Code 16366	Warren	Warren	Unique
+ZIP Code 16367	Warren	Warren	Unique
+ZIP Code 16368	Warren	Warren	Unique
+ZIP Code 16369	Warren	Warren	Unique
+ZIP Code 16370	West Hickory	Forest	P.O. Box
+ZIP Code 16371	Youngsville	Warren	Standard
+ZIP Code 16372	Clintonville	Venango	P.O. Box
+ZIP Code 16373	Emlenton	Venango	Standard
+ZIP Code 16374	Kennerdell	Venango	Standard
+ZIP Code 16375	Lamartine	Clarion	P.O. Box
+ZIP Code 16388	Meadville	Crawford	Unique
+ZIP Code 16401	Albion	Erie	Standard
+ZIP Code 16402	Bear Lake	Warren	Standard
+ZIP Code 16403	Cambridge Springs	Crawford	Standard
+ZIP Code 16404	Centerville	Crawford	Standard
+ZIP Code 16405	Columbus	Warren	Standard
+ZIP Code 16406	Conneautville	Crawford	Standard
+ZIP Code 16407	Corry	Erie	Standard
+ZIP Code 16410	Cranesville	Erie	Standard
+ZIP Code 16411	East Springfield	Erie	Standard
+ZIP Code 16412	Edinboro	Erie	Standard
+ZIP Code 16413	Elgin	Erie	P.O. Box
+ZIP Code 16415	Fairview	Erie	Standard
+ZIP Code 16416	Garland	Warren	P.O. Box
+ZIP Code 16417	Girard	Erie	Standard
+ZIP Code 16420	Grand Valley	Warren	Standard
+ZIP Code 16421	Harborcreek	Erie	Standard
+ZIP Code 16422	Harmonsburg	Crawford	P.O. Box
+ZIP Code 16423	Lake City	Erie	Standard
+ZIP Code 16424	Linesville	Crawford	Standard
+ZIP Code 16426	Mc Kean	Erie	Standard
+ZIP Code 16427	Mill Village	Erie	P.O. Box
+ZIP Code 16428	North East	Erie	Standard
+ZIP Code 16430	North Springfield	Erie	Standard
+ZIP Code 16432	Riceville	Crawford	Standard
+ZIP Code 16433	Saegertown	Crawford	Standard
+ZIP Code 16434	Spartansburg	Crawford	Standard
+ZIP Code 16435	Springboro	Crawford	Standard
+ZIP Code 16436	Spring Creek	Warren	Standard
+ZIP Code 16438	Union City	Erie	Standard
+ZIP Code 16440	Venango	Crawford	Standard
+ZIP Code 16441	Waterford	Erie	Standard
+ZIP Code 16442	Wattsburg	Erie	Standard
+ZIP Code 16443	West Springfield	Erie	Standard
+ZIP Code 16444	Edinboro	Erie	Unique
+ZIP Code 16475	Albion	Erie	Unique
+ZIP Code 16501	Erie	Erie	Standard
+ZIP Code 16502	Erie	Erie	Standard
+ZIP Code 16503	Erie	Erie	Standard
+ZIP Code 16504	Erie	Erie	Standard
+ZIP Code 16505	Erie	Erie	Standard
+ZIP Code 16506	Erie	Erie	Standard
+ZIP Code 16507	Erie	Erie	Standard
+ZIP Code 16508	Erie	Erie	Standard
+ZIP Code 16509	Erie	Erie	Standard
+ZIP Code 16510	Erie	Erie	Standard
+ZIP Code 16511	Erie	Erie	Standard
+ZIP Code 16512	Erie	Erie	P.O. Box
+ZIP Code 16514	Erie	Erie	P.O. Box
+ZIP Code 16515	Erie	Erie	Standard
+ZIP Code 16522	Erie	Erie	Unique
+ZIP Code 16530	Erie	Erie	Unique
+ZIP Code 16531	Erie	Erie	Unique
+ZIP Code 16534	Erie	Erie	Unique
+ZIP Code 16538	Erie	Erie	Unique
+ZIP Code 16541	Erie	Erie	Unique
+ZIP Code 16544	Erie	Erie	Unique
+ZIP Code 16546	Erie	Erie	Unique
+ZIP Code 16550	Erie	Erie	Unique
+ZIP Code 16553	Erie	Erie	Unique
+ZIP Code 16563	Erie	Erie	Unique
+ZIP Code 16565	Erie	Erie	Standard
+ZIP Code 16601	Altoona	Blair	Standard
+ZIP Code 16602	Altoona	Blair	Standard
+ZIP Code 16603	Altoona	Blair	P.O. Box
+ZIP Code 16611	Alexandria	Huntingdon	Standard
+ZIP Code 16613	Ashville	Cambria	Standard
+ZIP Code 16616	Beccaria	Clearfield	Standard
+ZIP Code 16617	Bellwood	Blair	Standard
+ZIP Code 16619	Blandburg	Cambria	P.O. Box
+ZIP Code 16620	Brisbin	Clearfield	P.O. Box
+ZIP Code 16621	Broad Top	Huntingdon	Standard
+ZIP Code 16622	Calvin	Huntingdon	Standard
+ZIP Code 16623	Cassville	Huntingdon	Standard
+ZIP Code 16624	Chest Springs	Cambria	P.O. Box
+ZIP Code 16625	Claysburg	Blair	Standard
+ZIP Code 16627	Coalport	Clearfield	Standard
+ZIP Code 16629	Coupon	Cambria	Standard
+ZIP Code 16630	Cresson	Cambria	Standard
+ZIP Code 16631	Curryville	Blair	P.O. Box
+ZIP Code 16633	Defiance	Bedford	P.O. Box
+ZIP Code 16634	Dudley	Huntingdon	P.O. Box
+ZIP Code 16635	Duncansville	Blair	Standard
+ZIP Code 16636	Dysart	Cambria	Standard
+ZIP Code 16637	East Freedom	Blair	Standard
+ZIP Code 16638	Entriken	Huntingdon	Standard
+ZIP Code 16639	Fallentimber	Cambria	Standard
+ZIP Code 16640	Flinton	Cambria	Standard
+ZIP Code 16641	Gallitzin	Cambria	Standard
+ZIP Code 16644	Glasgow	Cambria	P.O. Box
+ZIP Code 16645	Glen Hope	Clearfield	Standard
+ZIP Code 16646	Hastings	Cambria	Standard
+ZIP Code 16647	Hesston	Huntingdon	Standard
+ZIP Code 16648	Hollidaysburg	Blair	Standard
+ZIP Code 16650	Hopewell	Bedford	Standard
+ZIP Code 16651	Houtzdale	Clearfield	Standard
+ZIP Code 16652	Huntingdon	Huntingdon	Standard
+ZIP Code 16654	Huntingdon	Huntingdon	Unique
+ZIP Code 16655	Imler	Bedford	Standard
+ZIP Code 16656	Irvona	Clearfield	Standard
+ZIP Code 16657	James Creek	Huntingdon	Standard
+ZIP Code 16659	Loysburg	Bedford	Standard
+ZIP Code 16660	Mc Connellstown	Huntingdon	P.O. Box
+ZIP Code 16661	Madera	Clearfield	Standard
+ZIP Code 16662	Martinsburg	Blair	Standard
+ZIP Code 16663	Morann	Clearfield	P.O. Box
+ZIP Code 16664	New Enterprise	Bedford	Standard
+ZIP Code 16665	Newry	Blair	P.O. Box
+ZIP Code 16666	Osceola Mills	Clearfield	Standard
+ZIP Code 16667	Osterburg	Bedford	Standard
+ZIP Code 16668	Patton	Cambria	Standard
+ZIP Code 16669	Petersburg	Huntingdon	Standard
+ZIP Code 16670	Queen	Bedford	Standard
+ZIP Code 16671	Ramey	Clearfield	P.O. Box
+ZIP Code 16672	Riddlesburg	Bedford	P.O. Box
+ZIP Code 16673	Roaring Spring	Blair	Standard
+ZIP Code 16674	Robertsdale	Huntingdon	Standard
+ZIP Code 16675	Saint Boniface	Cambria	P.O. Box
+ZIP Code 16677	Sandy Ridge	Centre	P.O. Box
+ZIP Code 16678	Saxton	Bedford	Standard
+ZIP Code 16679	Six Mile Run	Bedford	Standard
+ZIP Code 16680	Smithmill	Clearfield	Standard
+ZIP Code 16681	Smokerun	Clearfield	P.O. Box
+ZIP Code 16682	Sproul	Blair	Standard
+ZIP Code 16683	Spruce Creek	Huntingdon	Standard
+ZIP Code 16684	Tipton	Blair	P.O. Box
+ZIP Code 16685	Todd	Huntingdon	Standard
+ZIP Code 16686	Tyrone	Blair	Standard
+ZIP Code 16689	Waterfall	Fulton	Standard
+ZIP Code 16691	Wells Tannery	Fulton	Standard
+ZIP Code 16692	Westover	Clearfield	Standard
+ZIP Code 16693	Williamsburg	Blair	Standard
+ZIP Code 16694	Wood	Bedford	P.O. Box
+ZIP Code 16695	Woodbury	Bedford	Standard
+ZIP Code 16698	Houtzdale	Clearfield	Unique
+ZIP Code 16699	Cresson	Cambria	Unique
+ZIP Code 16701	Bradford	Mckean	Standard
+ZIP Code 16720	Austin	Potter	Standard
+ZIP Code 16724	Crosby	Mckean	P.O. Box
+ZIP Code 16725	Custer City	Mckean	P.O. Box
+ZIP Code 16726	Cyclone	Mckean	Standard
+ZIP Code 16727	Derrick City	Mckean	Standard
+ZIP Code 16728	De Young	Elk	Standard
+ZIP Code 16729	Duke Center	Mckean	Standard
+ZIP Code 16730	East Smethport	Mckean	P.O. Box
+ZIP Code 16731	Eldred	Mckean	Standard
+ZIP Code 16732	Gifford	Mckean	Standard
+ZIP Code 16733	Hazel Hurst	Mckean	P.O. Box
+ZIP Code 16734	James City	Elk	P.O. Box
+ZIP Code 16735	Kane	Mckean	Standard
+ZIP Code 16738	Lewis Run	Mckean	Standard
+ZIP Code 16740	Mount Jewett	Mckean	Standard
+ZIP Code 16743	Port Allegany	Mckean	Standard
+ZIP Code 16744	Rew	Mckean	Standard
+ZIP Code 16745	Rixford	Mckean	Standard
+ZIP Code 16746	Roulette	Potter	Standard
+ZIP Code 16748	Shinglehouse	Potter	Standard
+ZIP Code 16749	Smethport	Mckean	Standard
+ZIP Code 16750	Turtlepoint	Mckean	Standard
+ZIP Code 16801	State College	Centre	Standard
+ZIP Code 16802	University Park	Centre	Standard
+ZIP Code 16803	State College	Centre	Standard
+ZIP Code 16804	State College	Centre	P.O. Box
+ZIP Code 16805	State College	Centre	P.O. Box
+ZIP Code 16820	Aaronsburg	Centre	Standard
+ZIP Code 16821	Allport	Clearfield	Standard
+ZIP Code 16822	Beech Creek	Clinton	Standard
+ZIP Code 16823	Bellefonte	Centre	Standard
+ZIP Code 16825	Bigler	Clearfield	P.O. Box
+ZIP Code 16826	Blanchard	Centre	P.O. Box
+ZIP Code 16827	Boalsburg	Centre	Standard
+ZIP Code 16828	Centre Hall	Centre	Standard
+ZIP Code 16829	Clarence	Centre	Standard
+ZIP Code 16830	Clearfield	Clearfield	Standard
+ZIP Code 16832	Coburn	Centre	Standard
+ZIP Code 16833	Curwensville	Clearfield	Standard
+ZIP Code 16834	Drifting	Clearfield	P.O. Box
+ZIP Code 16835	Fleming	Centre	P.O. Box
+ZIP Code 16836	Frenchville	Clearfield	Standard
+ZIP Code 16837	Glen Richey	Clearfield	Standard
+ZIP Code 16838	Grampian	Clearfield	Standard
+ZIP Code 16839	Grassflat	Clearfield	Standard
+ZIP Code 16840	Hawk Run	Clearfield	Standard
+ZIP Code 16841	Howard	Centre	Standard
+ZIP Code 16843	Hyde	Clearfield	P.O. Box
+ZIP Code 16844	Julian	Centre	Standard
+ZIP Code 16845	Karthaus	Clearfield	Standard
+ZIP Code 16847	Kylertown	Clearfield	P.O. Box
+ZIP Code 16848	Lamar	Clinton	P.O. Box
+ZIP Code 16849	Lanse	Clearfield	P.O. Box
+ZIP Code 16850	Lecontes Mills	Clearfield	Standard
+ZIP Code 16851	Lemont	Centre	P.O. Box
+ZIP Code 16852	Madisonburg	Centre	Standard
+ZIP Code 16853	Milesburg	Centre	P.O. Box
+ZIP Code 16854	Millheim	Centre	Standard
+ZIP Code 16855	Mineral Springs	Clearfield	P.O. Box
+ZIP Code 16856	Mingoville	Centre	P.O. Box
+ZIP Code 16858	Morrisdale	Clearfield	Standard
+ZIP Code 16859	Moshannon	Centre	Standard
+ZIP Code 16860	Munson	Clearfield	Standard
+ZIP Code 16861	New Millport	Clearfield	Standard
+ZIP Code 16863	Olanta	Clearfield	Standard
+ZIP Code 16864	Orviston	Centre	Standard
+ZIP Code 16865	Pennsylvania Furnace	Centre	Standard
+ZIP Code 16866	Philipsburg	Centre	Standard
+ZIP Code 16868	Pine Grove Mills	Centre	P.O. Box
+ZIP Code 16870	Port Matilda	Centre	Standard
+ZIP Code 16871	Pottersdale	Clearfield	Standard
+ZIP Code 16872	Rebersburg	Centre	Standard
+ZIP Code 16873	Shawville	Clearfield	P.O. Box
+ZIP Code 16874	Snow Shoe	Centre	Standard
+ZIP Code 16875	Spring Mills	Centre	Standard
+ZIP Code 16876	Wallaceton	Clearfield	P.O. Box
+ZIP Code 16877	Warriors Mark	Huntingdon	Standard
+ZIP Code 16878	West Decatur	Clearfield	Standard
+ZIP Code 16879	Winburne	Clearfield	Standard
+ZIP Code 16881	Woodland	Clearfield	Standard
+ZIP Code 16882	Woodward	Centre	Standard
+ZIP Code 16901	Wellsboro	Tioga	Standard
+ZIP Code 16910	Alba	Bradford	Standard
+ZIP Code 16911	Arnot	Tioga	P.O. Box
+ZIP Code 16912	Blossburg	Tioga	Standard
+ZIP Code 16914	Columbia Cross Roads	Bradford	Standard
+ZIP Code 16915	Coudersport	Potter	Standard
+ZIP Code 16917	Covington	Tioga	Standard
+ZIP Code 16920	Elkland	Tioga	Standard
+ZIP Code 16921	Gaines	Tioga	Standard
+ZIP Code 16922	Galeton	Potter	Standard
+ZIP Code 16923	Genesee	Potter	Standard
+ZIP Code 16925	Gillett	Bradford	Standard
+ZIP Code 16926	Granville Summit	Bradford	Standard
+ZIP Code 16927	Harrison Valley	Potter	Standard
+ZIP Code 16928	Knoxville	Tioga	Standard
+ZIP Code 16929	Lawrenceville	Tioga	Standard
+ZIP Code 16930	Liberty	Tioga	Standard
+ZIP Code 16932	Mainesburg	Tioga	Standard
+ZIP Code 16933	Mansfield	Tioga	Standard
+ZIP Code 16935	Middlebury Center	Tioga	Standard
+ZIP Code 16936	Millerton	Tioga	Standard
+ZIP Code 16937	Mills	Potter	Standard
+ZIP Code 16938	Morris	Tioga	Standard
+ZIP Code 16939	Morris Run	Tioga	P.O. Box
+ZIP Code 16940	Nelson	Tioga	P.O. Box
+ZIP Code 16941	Genesee	Potter	Standard
+ZIP Code 16942	Osceola	Tioga	Standard
+ZIP Code 16943	Sabinsville	Tioga	Standard
+ZIP Code 16945	Sylvania	Bradford	P.O. Box
+ZIP Code 16946	Tioga	Tioga	Standard
+ZIP Code 16947	Troy	Bradford	Standard
+ZIP Code 16948	Ulysses	Potter	Standard
+ZIP Code 16950	Westfield	Tioga	Standard
+ZIP Code 17001	Camp Hill	Cumberland	P.O. Box
+ZIP Code 17002	Allensville	Mifflin	Standard
+ZIP Code 17003	Annville	Lebanon	Standard
+ZIP Code 17004	Belleville	Mifflin	Standard
+ZIP Code 17005	Berrysburg	Dauphin	P.O. Box
+ZIP Code 17006	Blain	Perry	Standard
+ZIP Code 17007	Boiling Springs	Cumberland	Standard
+ZIP Code 17009	Burnham	Mifflin	Standard
+ZIP Code 17010	Campbelltown	Lebanon	P.O. Box
+ZIP Code 17011	Camp Hill	Cumberland	Standard
+ZIP Code 17013	Carlisle	Cumberland	Standard
+ZIP Code 17014	Cocolamus	Juniata	Standard
+ZIP Code 17015	Carlisle	Cumberland	Standard
+ZIP Code 17016	Cornwall	Lebanon	P.O. Box
+ZIP Code 17017	Dalmatia	Northumberland	Standard
+ZIP Code 17018	Dauphin	Dauphin	Standard
+ZIP Code 17019	Dillsburg	York	Standard
+ZIP Code 17020	Duncannon	Perry	Standard
+ZIP Code 17021	East Waterford	Juniata	Standard
+ZIP Code 17022	Elizabethtown	Lancaster	Standard
+ZIP Code 17023	Elizabethville	Dauphin	Standard
+ZIP Code 17024	Elliottsburg	Perry	Standard
+ZIP Code 17025	Enola	Cumberland	Standard
+ZIP Code 17026	Fredericksburg	Lebanon	Standard
+ZIP Code 17027	Grantham	Cumberland	P.O. Box
+ZIP Code 17028	Grantville	Dauphin	Standard
+ZIP Code 17029	Granville	Mifflin	Standard
+ZIP Code 17030	Gratz	Dauphin	Standard
+ZIP Code 17032	Halifax	Dauphin	Standard
+ZIP Code 17033	Hershey	Dauphin	Standard
+ZIP Code 17034	Highspire	Dauphin	Standard
+ZIP Code 17035	Honey Grove	Juniata	Standard
+ZIP Code 17036	Hummelstown	Dauphin	Standard
+ZIP Code 17037	Ickesburg	Perry	Standard
+ZIP Code 17038	Jonestown	Lebanon	Standard
+ZIP Code 17039	Kleinfeltersville	Lebanon	P.O. Box
+ZIP Code 17040	Landisburg	Perry	Standard
+ZIP Code 17041	Lawn	Lebanon	P.O. Box
+ZIP Code 17042	Lebanon	Lebanon	Standard
+ZIP Code 17043	Lemoyne	Cumberland	Standard
+ZIP Code 17044	Lewistown	Mifflin	Standard
+ZIP Code 17045	Liverpool	Perry	Standard
+ZIP Code 17046	Lebanon	Lebanon	Standard
+ZIP Code 17047	Loysville	Perry	Standard
+ZIP Code 17048	Lykens	Dauphin	Standard
+ZIP Code 17049	Mc Alisterville	Juniata	Standard
+ZIP Code 17050	Mechanicsburg	Cumberland	Standard
+ZIP Code 17051	Mc Veytown	Mifflin	Standard
+ZIP Code 17052	Mapleton Depot	Huntingdon	Standard
+ZIP Code 17053	Marysville	Perry	Standard
+ZIP Code 17054	Mattawana	Mifflin	P.O. Box
+ZIP Code 17055	Mechanicsburg	Cumberland	Standard
+ZIP Code 17056	Mexico	Juniata	P.O. Box
+ZIP Code 17057	Middletown	Dauphin	Standard
+ZIP Code 17058	Mifflin	Juniata	Standard
+ZIP Code 17059	Mifflintown	Juniata	Standard
+ZIP Code 17060	Mill Creek	Huntingdon	Standard
+ZIP Code 17061	Millersburg	Dauphin	Standard
+ZIP Code 17062	Millerstown	Perry	Standard
+ZIP Code 17063	Milroy	Mifflin	Standard
+ZIP Code 17064	Mount Gretna	Lebanon	P.O. Box
+ZIP Code 17065	Mount Holly Springs	Cumberland	Standard
+ZIP Code 17066	Mount Union	Huntingdon	Standard
+ZIP Code 17067	Myerstown	Lebanon	Standard
+ZIP Code 17068	New Bloomfield	Perry	Standard
+ZIP Code 17069	New Buffalo	Perry	P.O. Box
+ZIP Code 17070	New Cumberland	York	Standard
+ZIP Code 17071	New Germantown	Perry	P.O. Box
+ZIP Code 17072	New Kingstown	Cumberland	P.O. Box
+ZIP Code 17073	Newmanstown	Lebanon	Standard
+ZIP Code 17074	Newport	Perry	Standard
+ZIP Code 17075	Newton Hamilton	Mifflin	P.O. Box
+ZIP Code 17076	Oakland Mills	Juniata	Standard
+ZIP Code 17077	Ono	Lebanon	P.O. Box
+ZIP Code 17078	Palmyra	Lebanon	Standard
+ZIP Code 17080	Pillow	Dauphin	P.O. Box
+ZIP Code 17081	Plainfield	Cumberland	P.O. Box
+ZIP Code 17082	Port Royal	Juniata	Standard
+ZIP Code 17083	Quentin	Lebanon	P.O. Box
+ZIP Code 17084	Reedsville	Mifflin	Standard
+ZIP Code 17085	Rexmont	Lebanon	P.O. Box
+ZIP Code 17086	Richfield	Juniata	Standard
+ZIP Code 17087	Richland	Lebanon	Standard
+ZIP Code 17088	Schaefferstown	Lebanon	P.O. Box
+ZIP Code 17089	Camp Hill	Cumberland	Unique
+ZIP Code 17090	Shermans Dale	Perry	Standard
+ZIP Code 17093	Summerdale	Cumberland	P.O. Box
+ZIP Code 17094	Thompsontown	Juniata	Standard
+ZIP Code 17097	Wiconisco	Dauphin	P.O. Box
+ZIP Code 17098	Williamstown	Dauphin	Standard
+ZIP Code 17099	Yeagertown	Mifflin	Standard
+ZIP Code 17101	Harrisburg	Dauphin	Standard
+ZIP Code 17102	Harrisburg	Dauphin	Standard
+ZIP Code 17103	Harrisburg	Dauphin	Standard
+ZIP Code 17104	Harrisburg	Dauphin	Standard
+ZIP Code 17105	Harrisburg	Dauphin	P.O. Box
+ZIP Code 17106	Harrisburg	Dauphin	P.O. Box
+ZIP Code 17107	Harrisburg	Dauphin	Unique
+ZIP Code 17108	Harrisburg	Dauphin	P.O. Box
+ZIP Code 17109	Harrisburg	Dauphin	Standard
+ZIP Code 17110	Harrisburg	Dauphin	Standard
+ZIP Code 17111	Harrisburg	Dauphin	Standard
+ZIP Code 17112	Harrisburg	Dauphin	Standard
+ZIP Code 17113	Harrisburg	Dauphin	Standard
+ZIP Code 17120	Harrisburg	Dauphin	Unique
+ZIP Code 17121	Harrisburg	Dauphin	Unique
+ZIP Code 17122	Harrisburg	Dauphin	Unique
+ZIP Code 17123	Harrisburg	Dauphin	Unique
+ZIP Code 17124	Harrisburg	Dauphin	Unique
+ZIP Code 17125	Harrisburg	Dauphin	Unique
+ZIP Code 17126	Harrisburg	Dauphin	Unique
+ZIP Code 17127	Harrisburg	Dauphin	Unique
+ZIP Code 17128	Harrisburg	Dauphin	Unique
+ZIP Code 17129	Harrisburg	Dauphin	Standard
+ZIP Code 17130	Harrisburg	Dauphin	Unique
+ZIP Code 17140	Harrisburg	Dauphin	Unique
+ZIP Code 17177	Harrisburg	Dauphin	Unique
+ZIP Code 17201	Chambersburg	Franklin	Standard
+ZIP Code 17202	Chambersburg	Franklin	Standard
+ZIP Code 17210	Amberson	Franklin	P.O. Box
+ZIP Code 17211	Artemas	Bedford	Standard
+ZIP Code 17212	Big Cove Tannery	Fulton	Standard
+ZIP Code 17213	Blairs Mills	Huntingdon	Standard
+ZIP Code 17214	Blue Ridge Summit	Franklin	Standard
+ZIP Code 17215	Burnt Cabins	Fulton	Standard
+ZIP Code 17217	Concord	Franklin	Standard
+ZIP Code 17219	Doylesburg	Franklin	Standard
+ZIP Code 17220	Dry Run	Franklin	Standard
+ZIP Code 17221	Fannettsburg	Franklin	Standard
+ZIP Code 17222	Fayetteville	Franklin	Standard
+ZIP Code 17223	Fort Littleton	Fulton	Standard
+ZIP Code 17224	Fort Loudon	Franklin	Standard
+ZIP Code 17225	Greencastle	Franklin	Standard
+ZIP Code 17228	Harrisonville	Fulton	Standard
+ZIP Code 17229	Hustontown	Fulton	Standard
+ZIP Code 17231	Lemasters	Franklin	P.O. Box
+ZIP Code 17232	Lurgan	Franklin	Standard
+ZIP Code 17233	Mc Connellsburg	Fulton	Standard
+ZIP Code 17235	Marion	Franklin	P.O. Box
+ZIP Code 17236	Mercersburg	Franklin	Standard
+ZIP Code 17237	Mont Alto	Franklin	Standard
+ZIP Code 17238	Needmore	Fulton	Standard
+ZIP Code 17239	Neelyton	Huntingdon	Standard
+ZIP Code 17240	Newburg	Cumberland	Standard
+ZIP Code 17241	Newville	Cumberland	Standard
+ZIP Code 17243	Orbisonia	Huntingdon	Standard
+ZIP Code 17244	Orrstown	Franklin	Standard
+ZIP Code 17246	Pleasant Hall	Franklin	Standard
+ZIP Code 17247	Quincy	Franklin	P.O. Box
+ZIP Code 17249	Rockhill Furnace	Huntingdon	P.O. Box
+ZIP Code 17250	Rouzerville	Franklin	P.O. Box
+ZIP Code 17251	Roxbury	Franklin	P.O. Box
+ZIP Code 17252	Saint Thomas	Franklin	Standard
+ZIP Code 17253	Saltillo	Huntingdon	P.O. Box
+ZIP Code 17254	Scotland	Franklin	P.O. Box
+ZIP Code 17255	Shade Gap	Huntingdon	Standard
+ZIP Code 17256	Shady Grove	Franklin	P.O. Box
+ZIP Code 17257	Shippensburg	Cumberland	Standard
+ZIP Code 17260	Shirleysburg	Huntingdon	Standard
+ZIP Code 17261	South Mountain	Franklin	P.O. Box
+ZIP Code 17262	Spring Run	Franklin	Standard
+ZIP Code 17263	State Line	Franklin	P.O. Box
+ZIP Code 17264	Three Springs	Huntingdon	Standard
+ZIP Code 17265	Upperstrasburg	Franklin	Standard
+ZIP Code 17266	Walnut Bottom	Cumberland	Standard
+ZIP Code 17267	Warfordsburg	Fulton	Standard
+ZIP Code 17268	Waynesboro	Franklin	Standard
+ZIP Code 17271	Willow Hill	Franklin	Standard
+ZIP Code 17272	Zullinger	Franklin	P.O. Box
+ZIP Code 17301	Abbottstown	Adams	Standard
+ZIP Code 17302	Airville	York	Standard
+ZIP Code 17303	Arendtsville	Adams	P.O. Box
+ZIP Code 17304	Aspers	Adams	Standard
+ZIP Code 17306	Bendersville	Adams	P.O. Box
+ZIP Code 17307	Biglerville	Adams	Standard
+ZIP Code 17309	Brogue	York	Standard
+ZIP Code 17310	Cashtown	Adams	P.O. Box
+ZIP Code 17311	Codorus	York	P.O. Box
+ZIP Code 17312	Craley	York	P.O. Box
+ZIP Code 17313	Dallastown	York	Standard
+ZIP Code 17314	Delta	York	Standard
+ZIP Code 17315	Dover	York	Standard
+ZIP Code 17316	East Berlin	Adams	Standard
+ZIP Code 17317	East Prospect	York	P.O. Box
+ZIP Code 17318	Emigsville	York	P.O. Box
+ZIP Code 17319	Etters	York	Standard
+ZIP Code 17320	Fairfield	Adams	Standard
+ZIP Code 17321	Fawn Grove	York	Standard
+ZIP Code 17322	Felton	York	Standard
+ZIP Code 17323	Franklintown	York	P.O. Box
+ZIP Code 17324	Gardners	Adams	Standard
+ZIP Code 17325	Gettysburg	Adams	Standard
+ZIP Code 17327	Glen Rock	York	Standard
+ZIP Code 17329	Glenville	York	Standard
+ZIP Code 17331	Hanover	York	Standard
+ZIP Code 17332	Hanover	York	Unique
+ZIP Code 17333	Hanover	York	Unique
+ZIP Code 17334	Hanover	York	Unique
+ZIP Code 17335	Hanover	York	Unique
+ZIP Code 17337	Idaville	Adams	P.O. Box
+ZIP Code 17339	Lewisberry	York	Standard
+ZIP Code 17340	Littlestown	Adams	Standard
+ZIP Code 17342	Loganville	York	P.O. Box
+ZIP Code 17343	Mc Knightstown	Adams	P.O. Box
+ZIP Code 17344	Mc Sherrystown	Adams	Standard
+ZIP Code 17345	Manchester	York	Standard
+ZIP Code 17347	Mount Wolf	York	Standard
+ZIP Code 17349	New Freedom	York	Standard
+ZIP Code 17350	New Oxford	Adams	Standard
+ZIP Code 17352	New Park	York	Standard
+ZIP Code 17353	Orrtanna	Adams	Standard
+ZIP Code 17355	Railroad	York	P.O. Box
+ZIP Code 17356	Red Lion	York	Standard
+ZIP Code 17358	Rossville	York	P.O. Box
+ZIP Code 17360	Seven Valleys	York	Standard
+ZIP Code 17361	Shrewsbury	York	Standard
+ZIP Code 17362	Spring Grove	York	Standard
+ZIP Code 17363	Stewartstown	York	Standard
+ZIP Code 17364	Thomasville	York	Standard
+ZIP Code 17365	Wellsville	York	Standard
+ZIP Code 17366	Windsor	York	Standard
+ZIP Code 17368	Wrightsville	York	Standard
+ZIP Code 17370	York Haven	York	Standard
+ZIP Code 17371	York New Salem	York	P.O. Box
+ZIP Code 17372	York Springs	Adams	Standard
+ZIP Code 17375	Peach Glen	Adams	Unique
+ZIP Code 17401	York	York	Standard
+ZIP Code 17402	York	York	Standard
+ZIP Code 17403	York	York	Standard
+ZIP Code 17404	York	York	Standard
+ZIP Code 17405	York	York	P.O. Box
+ZIP Code 17406	York	York	Standard
+ZIP Code 17407	York	York	Standard
+ZIP Code 17408	York	York	Standard
+ZIP Code 17501	Akron	Lancaster	Standard
+ZIP Code 17502	Bainbridge	Lancaster	Standard
+ZIP Code 17503	Bart	Lancaster	P.O. Box
+ZIP Code 17504	Bausman	Lancaster	P.O. Box
+ZIP Code 17505	Bird In Hand	Lancaster	Standard
+ZIP Code 17506	Blue Ball	Lancaster	P.O. Box
+ZIP Code 17507	Bowmansville	Lancaster	P.O. Box
+ZIP Code 17508	Brownstown	Lancaster	P.O. Box
+ZIP Code 17509	Christiana	Lancaster	Standard
+ZIP Code 17512	Columbia	Lancaster	Standard
+ZIP Code 17516	Conestoga	Lancaster	Standard
+ZIP Code 17517	Denver	Lancaster	Standard
+ZIP Code 17518	Drumore	Lancaster	Standard
+ZIP Code 17519	East Earl	Lancaster	Standard
+ZIP Code 17520	East Petersburg	Lancaster	Standard
+ZIP Code 17521	Elm	Lancaster	P.O. Box
+ZIP Code 17522	Ephrata	Lancaster	Standard
+ZIP Code 17527	Gap	Lancaster	Standard
+ZIP Code 17528	Goodville	Lancaster	P.O. Box
+ZIP Code 17529	Gordonville	Lancaster	Standard
+ZIP Code 17532	Holtwood	Lancaster	Standard
+ZIP Code 17533	Hopeland	Lancaster	P.O. Box
+ZIP Code 17534	Intercourse	Lancaster	P.O. Box
+ZIP Code 17535	Kinzers	Lancaster	Standard
+ZIP Code 17536	Kirkwood	Lancaster	Standard
+ZIP Code 17537	Lampeter	Lancaster	P.O. Box
+ZIP Code 17538	Landisville	Lancaster	Standard
+ZIP Code 17540	Leola	Lancaster	Standard
+ZIP Code 17543	Lititz	Lancaster	Standard
+ZIP Code 17545	Manheim	Lancaster	Standard
+ZIP Code 17547	Marietta	Lancaster	Standard
+ZIP Code 17549	Martindale	Lancaster	P.O. Box
+ZIP Code 17550	Maytown	Lancaster	P.O. Box
+ZIP Code 17551	Millersville	Lancaster	Standard
+ZIP Code 17552	Mount Joy	Lancaster	Standard
+ZIP Code 17554	Mountville	Lancaster	Standard
+ZIP Code 17555	Narvon	Lancaster	Standard
+ZIP Code 17557	New Holland	Lancaster	Standard
+ZIP Code 17560	New Providence	Lancaster	Standard
+ZIP Code 17562	Paradise	Lancaster	Standard
+ZIP Code 17563	Peach Bottom	Lancaster	Standard
+ZIP Code 17564	Penryn	Lancaster	P.O. Box
+ZIP Code 17565	Pequea	Lancaster	Standard
+ZIP Code 17566	Quarryville	Lancaster	Standard
+ZIP Code 17567	Reamstown	Lancaster	P.O. Box
+ZIP Code 17568	Refton	Lancaster	P.O. Box
+ZIP Code 17569	Reinholds	Lancaster	Standard
+ZIP Code 17570	Rheems	Lancaster	P.O. Box
+ZIP Code 17572	Ronks	Lancaster	Standard
+ZIP Code 17573	Lancaster	Lancaster	Unique
+ZIP Code 17575	Silver Spring	Lancaster	P.O. Box
+ZIP Code 17576	Smoketown	Lancaster	Standard
+ZIP Code 17578	Stevens	Lancaster	Standard
+ZIP Code 17579	Strasburg	Lancaster	Standard
+ZIP Code 17580	Talmage	Lancaster	P.O. Box
+ZIP Code 17581	Terre Hill	Lancaster	Standard
+ZIP Code 17582	Washington Boro	Lancaster	Standard
+ZIP Code 17584	Willow Street	Lancaster	Standard
+ZIP Code 17585	Witmer	Lancaster	P.O. Box
+ZIP Code 17601	Lancaster	Lancaster	Standard
+ZIP Code 17602	Lancaster	Lancaster	Standard
+ZIP Code 17603	Lancaster	Lancaster	Standard
+ZIP Code 17604	Lancaster	Lancaster	P.O. Box
+ZIP Code 17605	Lancaster	Lancaster	P.O. Box
+ZIP Code 17606	Lancaster	Lancaster	P.O. Box
+ZIP Code 17607	Lancaster	Lancaster	P.O. Box
+ZIP Code 17608	Lancaster	Lancaster	P.O. Box
+ZIP Code 17611	Lancaster	Lancaster	Standard
+ZIP Code 17622	Lancaster	Lancaster	Unique
+ZIP Code 17699	Lancaster	Lancaster	Unique
+ZIP Code 17701	Williamsport	Lycoming	Standard
+ZIP Code 17702	Williamsport	Lycoming	Standard
+ZIP Code 17703	Williamsport	Lycoming	P.O. Box
+ZIP Code 17705	Williamsport	Lycoming	Unique
+ZIP Code 17720	Antes Fort	Lycoming	P.O. Box
+ZIP Code 17721	Avis	Clinton	P.O. Box
+ZIP Code 17723	Cammal	Lycoming	Standard
+ZIP Code 17724	Canton	Bradford	Standard
+ZIP Code 17726	Castanea	Clinton	P.O. Box
+ZIP Code 17727	Cedar Run	Lycoming	Standard
+ZIP Code 17728	Cogan Station	Lycoming	Standard
+ZIP Code 17729	Cross Fork	Potter	Standard
+ZIP Code 17730	Dewart	Northumberland	P.O. Box
+ZIP Code 17731	Eagles Mere	Sullivan	P.O. Box
+ZIP Code 17735	Grover	Bradford	P.O. Box
+ZIP Code 17737	Hughesville	Lycoming	Standard
+ZIP Code 17739	Jersey Mills	Lycoming	Standard
+ZIP Code 17740	Jersey Shore	Lycoming	Standard
+ZIP Code 17742	Lairdsville	Lycoming	Standard
+ZIP Code 17744	Linden	Lycoming	Standard
+ZIP Code 17745	Lock Haven	Clinton	Standard
+ZIP Code 17747	Loganton	Clinton	Standard
+ZIP Code 17748	Mc Elhattan	Clinton	P.O. Box
+ZIP Code 17749	Mc Ewensville	Northumberland	P.O. Box
+ZIP Code 17750	Mackeyville	Clinton	P.O. Box
+ZIP Code 17751	Mill Hall	Clinton	Standard
+ZIP Code 17752	Montgomery	Lycoming	Standard
+ZIP Code 17754	Montoursville	Lycoming	Standard
+ZIP Code 17756	Muncy	Lycoming	Standard
+ZIP Code 17758	Muncy Valley	Sullivan	Standard
+ZIP Code 17760	North Bend	Clinton	Standard
+ZIP Code 17762	Picture Rocks	Lycoming	P.O. Box
+ZIP Code 17763	Ralston	Lycoming	P.O. Box
+ZIP Code 17764	Renovo	Clinton	Standard
+ZIP Code 17765	Roaring Branch	Tioga	Standard
+ZIP Code 17768	Shunk	Sullivan	Standard
+ZIP Code 17769	Slate Run	Lycoming	Standard
+ZIP Code 17771	Trout Run	Lycoming	Standard
+ZIP Code 17772	Turbotville	Northumberland	Standard
+ZIP Code 17774	Unityville	Lycoming	Standard
+ZIP Code 17776	Waterville	Lycoming	Standard
+ZIP Code 17777	Watsontown	Northumberland	Standard
+ZIP Code 17778	Westport	Clinton	Standard
+ZIP Code 17779	Woolrich	Clinton	P.O. Box
+ZIP Code 17801	Sunbury	Northumberland	Standard
+ZIP Code 17810	Allenwood	Lycoming	Standard
+ZIP Code 17812	Beaver Springs	Snyder	Standard
+ZIP Code 17813	Beavertown	Snyder	Standard
+ZIP Code 17814	Benton	Columbia	Standard
+ZIP Code 17815	Bloomsburg	Columbia	Standard
+ZIP Code 17820	Catawissa	Columbia	Standard
+ZIP Code 17821	Danville	Montour	Standard
+ZIP Code 17822	Danville	Montour	Unique
+ZIP Code 17823	Dornsife	Northumberland	Standard
+ZIP Code 17824	Elysburg	Northumberland	Standard
+ZIP Code 17827	Freeburg	Snyder	Standard
+ZIP Code 17829	Hartleton	Union	P.O. Box
+ZIP Code 17830	Herndon	Northumberland	Standard
+ZIP Code 17831	Hummels Wharf	Snyder	P.O. Box
+ZIP Code 17832	Marion Heights	Northumberland	P.O. Box
+ZIP Code 17833	Kreamer	Snyder	P.O. Box
+ZIP Code 17834	Kulpmont	Northumberland	Standard
+ZIP Code 17835	Laurelton	Union	P.O. Box
+ZIP Code 17836	Leck Kill	Northumberland	Standard
+ZIP Code 17837	Lewisburg	Union	Standard
+ZIP Code 17840	Locust Gap	Northumberland	Standard
+ZIP Code 17841	Mc Clure	Snyder	Standard
+ZIP Code 17842	Middleburg	Snyder	Standard
+ZIP Code 17843	Beaver Springs	Snyder	Standard
+ZIP Code 17844	Mifflinburg	Union	Standard
+ZIP Code 17845	Millmont	Union	Standard
+ZIP Code 17846	Millville	Columbia	Standard
+ZIP Code 17847	Milton	Northumberland	Standard
+ZIP Code 17850	Montandon	Northumberland	P.O. Box
+ZIP Code 17851	Mount Carmel	Northumberland	Standard
+ZIP Code 17853	Mount Pleasant Mills	Snyder	Standard
+ZIP Code 17855	New Berlin	Union	Standard
+ZIP Code 17856	New Columbia	Union	Standard
+ZIP Code 17857	Northumberland	Northumberland	Standard
+ZIP Code 17858	Numidia	Columbia	P.O. Box
+ZIP Code 17859	Orangeville	Columbia	Standard
+ZIP Code 17860	Paxinos	Northumberland	Standard
+ZIP Code 17861	Paxtonville	Snyder	P.O. Box
+ZIP Code 17862	Penns Creek	Snyder	P.O. Box
+ZIP Code 17864	Port Trevorton	Snyder	Standard
+ZIP Code 17865	Potts Grove	Northumberland	P.O. Box
+ZIP Code 17866	Coal Township	Northumberland	Standard
+ZIP Code 17867	Rebuck	Northumberland	Standard
+ZIP Code 17868	Riverside	Northumberland	P.O. Box
+ZIP Code 17870	Selinsgrove	Snyder	Standard
+ZIP Code 17872	Shamokin	Northumberland	Standard
+ZIP Code 17876	Shamokin Dam	Snyder	Standard
+ZIP Code 17877	Snydertown	Northumberland	P.O. Box
+ZIP Code 17878	Stillwater	Columbia	Standard
+ZIP Code 17880	Swengel	Union	P.O. Box
+ZIP Code 17881	Trevorton	Northumberland	Standard
+ZIP Code 17882	Troxelville	Snyder	P.O. Box
+ZIP Code 17884	Washingtonville	Montour	P.O. Box
+ZIP Code 17885	Weikert	Union	P.O. Box
+ZIP Code 17886	West Milton	Union	Standard
+ZIP Code 17887	White Deer	Union	P.O. Box
+ZIP Code 17888	Wilburton	Columbia	Standard
+ZIP Code 17889	Winfield	Union	Standard
+ZIP Code 17901	Pottsville	Schuylkill	Standard
+ZIP Code 17920	Aristes	Columbia	P.O. Box
+ZIP Code 17921	Ashland	Schuylkill	Standard
+ZIP Code 17922	Auburn	Schuylkill	Standard
+ZIP Code 17923	Branchdale	Schuylkill	P.O. Box
+ZIP Code 17925	Brockton	Schuylkill	Standard
+ZIP Code 17929	Cressona	Schuylkill	Standard
+ZIP Code 17930	Cumbola	Schuylkill	P.O. Box
+ZIP Code 17931	Frackville	Schuylkill	Standard
+ZIP Code 17932	Frackville	Schuylkill	Unique
+ZIP Code 17933	Friedensburg	Schuylkill	P.O. Box
+ZIP Code 17934	Gilberton	Schuylkill	Standard
+ZIP Code 17935	Girardville	Schuylkill	Standard
+ZIP Code 17936	Gordon	Schuylkill	P.O. Box
+ZIP Code 17938	Hegins	Schuylkill	Standard
+ZIP Code 17941	Klingerstown	Schuylkill	Standard
+ZIP Code 17943	Lavelle	Schuylkill	P.O. Box
+ZIP Code 17944	Llewellyn	Schuylkill	P.O. Box
+ZIP Code 17945	Locustdale	Schuylkill	P.O. Box
+ZIP Code 17946	Lost Creek	Schuylkill	P.O. Box
+ZIP Code 17948	Mahanoy City	Schuylkill	Standard
+ZIP Code 17949	Mahanoy Plane	Schuylkill	P.O. Box
+ZIP Code 17951	Mar Lin	Schuylkill	P.O. Box
+ZIP Code 17952	Mary D	Schuylkill	Standard
+ZIP Code 17953	Middleport	Schuylkill	Standard
+ZIP Code 17954	Minersville	Schuylkill	Standard
+ZIP Code 17957	Muir	Schuylkill	Standard
+ZIP Code 17959	New Philadelphia	Schuylkill	Standard
+ZIP Code 17960	New Ringgold	Schuylkill	Standard
+ZIP Code 17961	Orwigsburg	Schuylkill	Standard
+ZIP Code 17963	Pine Grove	Schuylkill	Standard
+ZIP Code 17964	Pitman	Schuylkill	Standard
+ZIP Code 17965	Port Carbon	Schuylkill	Standard
+ZIP Code 17966	Ravine	Schuylkill	P.O. Box
+ZIP Code 17967	Ringtown	Schuylkill	Standard
+ZIP Code 17968	Sacramento	Schuylkill	Standard
+ZIP Code 17970	Saint Clair	Schuylkill	Standard
+ZIP Code 17972	Schuylkill Haven	Schuylkill	Standard
+ZIP Code 17974	Seltzer	Schuylkill	P.O. Box
+ZIP Code 17976	Shenandoah	Schuylkill	Standard
+ZIP Code 17978	Spring Glen	Dauphin	Standard
+ZIP Code 17979	Summit Station	Schuylkill	P.O. Box
+ZIP Code 17980	Tower City	Schuylkill	Standard
+ZIP Code 17981	Tremont	Schuylkill	Standard
+ZIP Code 17982	Tuscarora	Schuylkill	Standard
+ZIP Code 17983	Valley View	Schuylkill	Standard
+ZIP Code 17985	Zion Grove	Schuylkill	Standard
+ZIP Code 18001	Lehigh Valley	Northampton	P.O. Box
+ZIP Code 18002	Lehigh Valley	Northampton	P.O. Box
+ZIP Code 18003	Lehigh Valley	Northampton	Unique
+ZIP Code 18005	Lehigh Valley	Northampton	P.O. Box
+ZIP Code 18011	Alburtis	Lehigh	Standard
+ZIP Code 18012	Aquashicola	Carbon	P.O. Box
+ZIP Code 18013	Bangor	Northampton	Standard
+ZIP Code 18014	Bath	Northampton	Standard
+ZIP Code 18015	Bethlehem	Northampton	Standard
+ZIP Code 18016	Bethlehem	Northampton	Standard
+ZIP Code 18017	Bethlehem	Northampton	Standard
+ZIP Code 18018	Bethlehem	Northampton	Standard
+ZIP Code 18020	Bethlehem	Northampton	Standard
+ZIP Code 18030	Bowmanstown	Carbon	P.O. Box
+ZIP Code 18031	Breinigsville	Lehigh	Standard
+ZIP Code 18032	Catasauqua	Lehigh	Standard
+ZIP Code 18034	Center Valley	Lehigh	Standard
+ZIP Code 18035	Cherryville	Northampton	Standard
+ZIP Code 18036	Coopersburg	Lehigh	Standard
+ZIP Code 18037	Coplay	Lehigh	Standard
+ZIP Code 18038	Danielsville	Northampton	Standard
+ZIP Code 18039	Durham	Bucks	P.O. Box
+ZIP Code 18040	Easton	Northampton	Standard
+ZIP Code 18041	East Greenville	Montgomery	Standard
+ZIP Code 18042	Easton	Northampton	Standard
+ZIP Code 18043	Easton	Northampton	P.O. Box
+ZIP Code 18044	Easton	Northampton	P.O. Box
+ZIP Code 18045	Easton	Northampton	Standard
+ZIP Code 18046	East Texas	Lehigh	P.O. Box
+ZIP Code 18049	Emmaus	Lehigh	Standard
+ZIP Code 18051	Fogelsville	Lehigh	Standard
+ZIP Code 18052	Whitehall	Lehigh	Standard
+ZIP Code 18053	Germansville	Lehigh	Standard
+ZIP Code 18054	Green Lane	Montgomery	Standard
+ZIP Code 18055	Hellertown	Northampton	Standard
+ZIP Code 18056	Hereford	Berks	Standard
+ZIP Code 18058	Kunkletown	Monroe	Standard
+ZIP Code 18059	Laurys Station	Lehigh	Standard
+ZIP Code 18060	Limeport	Lehigh	P.O. Box
+ZIP Code 18062	Macungie	Lehigh	Standard
+ZIP Code 18063	Martins Creek	Northampton	P.O. Box
+ZIP Code 18064	Nazareth	Northampton	Standard
+ZIP Code 18065	Neffs	Lehigh	P.O. Box
+ZIP Code 18066	New Tripoli	Lehigh	Standard
+ZIP Code 18067	Northampton	Northampton	Standard
+ZIP Code 18068	Old Zionsville	Lehigh	P.O. Box
+ZIP Code 18069	Orefield	Lehigh	Standard
+ZIP Code 18070	Palm	Montgomery	Standard
+ZIP Code 18071	Palmerton	Carbon	Standard
+ZIP Code 18072	Pen Argyl	Northampton	Standard
+ZIP Code 18073	Pennsburg	Montgomery	Standard
+ZIP Code 18074	Perkiomenville	Montgomery	Standard
+ZIP Code 18076	Red Hill	Montgomery	Standard
+ZIP Code 18077	Riegelsville	Bucks	Standard
+ZIP Code 18078	Schnecksville	Lehigh	Standard
+ZIP Code 18079	Slatedale	Lehigh	P.O. Box
+ZIP Code 18080	Slatington	Lehigh	Standard
+ZIP Code 18081	Springtown	Bucks	P.O. Box
+ZIP Code 18083	Stockertown	Northampton	P.O. Box
+ZIP Code 18084	Sumneytown	Montgomery	P.O. Box
+ZIP Code 18085	Tatamy	Northampton	P.O. Box
+ZIP Code 18086	Treichlers	Northampton	P.O. Box
+ZIP Code 18087	Trexlertown	Lehigh	Standard
+ZIP Code 18088	Walnutport	Northampton	Standard
+ZIP Code 18091	Wind Gap	Northampton	Standard
+ZIP Code 18092	Zionsville	Lehigh	Standard
+ZIP Code 18098	Emmaus	Lehigh	Unique
+ZIP Code 18099	Emmaus	Lehigh	Unique
+ZIP Code 18101	Allentown	Lehigh	Standard
+ZIP Code 18102	Allentown	Lehigh	Standard
+ZIP Code 18103	Allentown	Lehigh	Standard
+ZIP Code 18104	Allentown	Lehigh	Standard
+ZIP Code 18105	Allentown	Lehigh	P.O. Box
+ZIP Code 18106	Allentown	Lehigh	Standard
+ZIP Code 18109	Allentown	Lehigh	Standard
+ZIP Code 18195	Allentown	Lehigh	Standard
+ZIP Code 18201	Hazleton	Luzerne	Standard
+ZIP Code 18202	Hazleton	Luzerne	Standard
+ZIP Code 18210	Albrightsville	Carbon	Standard
+ZIP Code 18211	Andreas	Schuylkill	Standard
+ZIP Code 18212	Ashfield	Carbon	P.O. Box
+ZIP Code 18214	Barnesville	Schuylkill	Standard
+ZIP Code 18216	Beaver Meadows	Luzerne	Standard
+ZIP Code 18218	Coaldale	Schuylkill	Standard
+ZIP Code 18219	Conyngham	Luzerne	P.O. Box
+ZIP Code 18220	Delano	Schuylkill	P.O. Box
+ZIP Code 18221	Drifton	Luzerne	P.O. Box
+ZIP Code 18222	Drums	Luzerne	Standard
+ZIP Code 18223	Ebervale	Luzerne	P.O. Box
+ZIP Code 18224	Freeland	Luzerne	Standard
+ZIP Code 18225	Harleigh	Luzerne	P.O. Box
+ZIP Code 18229	Jim Thorpe	Carbon	Standard
+ZIP Code 18230	Junedale	Carbon	P.O. Box
+ZIP Code 18231	Kelayres	Schuylkill	P.O. Box
+ZIP Code 18232	Lansford	Carbon	Standard
+ZIP Code 18234	Lattimer Mines	Luzerne	P.O. Box
+ZIP Code 18235	Lehighton	Carbon	Standard
+ZIP Code 18237	Mcadoo	Schuylkill	Standard
+ZIP Code 18239	Milnesville	Luzerne	P.O. Box
+ZIP Code 18240	Nesquehoning	Carbon	Standard
+ZIP Code 18241	Nuremberg	Schuylkill	Standard
+ZIP Code 18242	Oneida	Schuylkill	P.O. Box
+ZIP Code 18244	Parryville	Carbon	P.O. Box
+ZIP Code 18245	Quakake	Schuylkill	P.O. Box
+ZIP Code 18246	Rock Glen	Luzerne	P.O. Box
+ZIP Code 18247	Saint Johns	Luzerne	P.O. Box
+ZIP Code 18248	Sheppton	Schuylkill	P.O. Box
+ZIP Code 18249	Sugarloaf	Luzerne	Standard
+ZIP Code 18250	Summit Hill	Carbon	Standard
+ZIP Code 18251	Sybertsville	Luzerne	P.O. Box
+ZIP Code 18252	Tamaqua	Schuylkill	Standard
+ZIP Code 18254	Tresckow	Carbon	P.O. Box
+ZIP Code 18255	Weatherly	Carbon	Standard
+ZIP Code 18256	Weston	Luzerne	P.O. Box
+ZIP Code 18301	East Stroudsburg	Monroe	Standard
+ZIP Code 18302	East Stroudsburg	Monroe	Standard
+ZIP Code 18320	Analomink	Monroe	P.O. Box
+ZIP Code 18321	Bartonsville	Monroe	Standard
+ZIP Code 18322	Brodheadsville	Monroe	Standard
+ZIP Code 18323	Buck Hill Falls	Monroe	P.O. Box
+ZIP Code 18324	Bushkill	Pike	Standard
+ZIP Code 18325	Canadensis	Monroe	Standard
+ZIP Code 18326	Cresco	Monroe	Standard
+ZIP Code 18327	Delaware Water Gap	Monroe	P.O. Box
+ZIP Code 18328	Dingmans Ferry	Pike	Standard
+ZIP Code 18330	Effort	Monroe	Standard
+ZIP Code 18331	Gilbert	Monroe	Standard
+ZIP Code 18332	Henryville	Monroe	Standard
+ZIP Code 18333	Kresgeville	Monroe	Standard
+ZIP Code 18334	Long Pond	Monroe	Standard
+ZIP Code 18335	Marshalls Creek	Monroe	P.O. Box
+ZIP Code 18336	Matamoras	Pike	Standard
+ZIP Code 18337	Milford	Pike	Standard
+ZIP Code 18340	Millrift	Pike	P.O. Box
+ZIP Code 18341	Minisink Hills	Monroe	P.O. Box
+ZIP Code 18342	Mountainhome	Monroe	P.O. Box
+ZIP Code 18343	Mount Bethel	Northampton	Standard
+ZIP Code 18344	Mount Pocono	Monroe	Standard
+ZIP Code 18346	Pocono Summit	Monroe	Standard
+ZIP Code 18347	Pocono Lake	Monroe	Standard
+ZIP Code 18348	Pocono Lake Preserve	Monroe	P.O. Box
+ZIP Code 18349	Pocono Manor	Monroe	P.O. Box
+ZIP Code 18350	Pocono Pines	Monroe	Standard
+ZIP Code 18351	Portland	Northampton	P.O. Box
+ZIP Code 18352	Reeders	Monroe	Standard
+ZIP Code 18353	Saylorsburg	Monroe	Standard
+ZIP Code 18354	Sciota	Monroe	Standard
+ZIP Code 18355	Scotrun	Monroe	Standard
+ZIP Code 18356	Shawnee On Delaware	Monroe	P.O. Box
+ZIP Code 18357	Skytop	Monroe	P.O. Box
+ZIP Code 18360	Stroudsburg	Monroe	Standard
+ZIP Code 18370	Swiftwater	Monroe	Standard
+ZIP Code 18371	Tamiment	Pike	Standard
+ZIP Code 18372	Tannersville	Monroe	Standard
+ZIP Code 18403	Archbald	Lackawanna	Standard
+ZIP Code 18405	Beach Lake	Wayne	Standard
+ZIP Code 18407	Carbondale	Lackawanna	Standard
+ZIP Code 18410	Chinchilla	Lackawanna	P.O. Box
+ZIP Code 18411	Clarks Summit	Lackawanna	Standard
+ZIP Code 18413	Clifford	Susquehanna	P.O. Box
+ZIP Code 18414	Dalton	Lackawanna	Standard
+ZIP Code 18415	Damascus	Wayne	Standard
+ZIP Code 18416	Elmhurst	Lackawanna	P.O. Box
+ZIP Code 18417	Equinunk	Wayne	Standard
+ZIP Code 18419	Factoryville	Wyoming	Standard
+ZIP Code 18420	Fleetville	Lackawanna	P.O. Box
+ZIP Code 18421	Forest City	Susquehanna	Standard
+ZIP Code 18424	Gouldsboro	Lackawanna	Standard
+ZIP Code 18425	Greeley	Pike	Standard
+ZIP Code 18426	Greentown	Pike	Standard
+ZIP Code 18427	Hamlin	Wayne	P.O. Box
+ZIP Code 18428	Hawley	Pike	Standard
+ZIP Code 18430	Herrick Center	Susquehanna	Standard
+ZIP Code 18431	Honesdale	Wayne	Standard
+ZIP Code 18433	Jermyn	Lackawanna	Standard
+ZIP Code 18434	Jessup	Lackawanna	Standard
+ZIP Code 18435	Lackawaxen	Pike	Standard
+ZIP Code 18436	Lake Ariel	Wayne	Standard
+ZIP Code 18437	Lake Como	Wayne	Standard
+ZIP Code 18438	Lakeville	Wayne	Standard
+ZIP Code 18439	Lakewood	Wayne	Standard
+ZIP Code 18440	La Plume	Lackawanna	P.O. Box
+ZIP Code 18441	Lenoxville	Susquehanna	Standard
+ZIP Code 18443	Milanville	Wayne	Standard
+ZIP Code 18444	Moscow	Lackawanna	Standard
+ZIP Code 18445	Newfoundland	Wayne	Standard
+ZIP Code 18446	Nicholson	Wyoming	Standard
+ZIP Code 18447	Olyphant	Lackawanna	Standard
+ZIP Code 18449	Orson	Wayne	P.O. Box
+ZIP Code 18451	Paupack	Pike	Standard
+ZIP Code 18452	Peckville	Lackawanna	Standard
+ZIP Code 18453	Pleasant Mount	Wayne	Standard
+ZIP Code 18454	Poyntelle	Wayne	P.O. Box
+ZIP Code 18455	Preston Park	Wayne	Standard
+ZIP Code 18456	Prompton	Wayne	Standard
+ZIP Code 18457	Rowland	Pike	P.O. Box
+ZIP Code 18458	Shohola	Pike	Standard
+ZIP Code 18459	South Canaan	Wayne	P.O. Box
+ZIP Code 18460	South Sterling	Wayne	Standard
+ZIP Code 18461	Starlight	Wayne	Standard
+ZIP Code 18462	Starrucca	Wayne	Standard
+ZIP Code 18463	Sterling	Wayne	Standard
+ZIP Code 18464	Tafton	Pike	Standard
+ZIP Code 18465	Thompson	Susquehanna	Standard
+ZIP Code 18466	Tobyhanna	Monroe	Standard
+ZIP Code 18469	Tyler Hill	Wayne	Standard
+ZIP Code 18470	Union Dale	Susquehanna	Standard
+ZIP Code 18471	Waverly	Lackawanna	P.O. Box
+ZIP Code 18472	Waymart	Wayne	Standard
+ZIP Code 18473	White Mills	Wayne	P.O. Box
+ZIP Code 18501	Scranton	Lackawanna	P.O. Box
+ZIP Code 18502	Scranton	Lackawanna	P.O. Box
+ZIP Code 18503	Scranton	Lackawanna	Standard
+ZIP Code 18504	Scranton	Lackawanna	Standard
+ZIP Code 18505	Scranton	Lackawanna	Standard
+ZIP Code 18507	Moosic	Lackawanna	Standard
+ZIP Code 18508	Scranton	Lackawanna	Standard
+ZIP Code 18509	Scranton	Lackawanna	Standard
+ZIP Code 18510	Scranton	Lackawanna	Standard
+ZIP Code 18512	Scranton	Lackawanna	Standard
+ZIP Code 18515	Scranton	Lackawanna	Standard
+ZIP Code 18517	Taylor	Lackawanna	Standard
+ZIP Code 18518	Old Forge	Lackawanna	Standard
+ZIP Code 18519	Scranton	Lackawanna	Standard
+ZIP Code 18540	Scranton	Lackawanna	Unique
+ZIP Code 18577	Scranton	Lackawanna	Unique
+ZIP Code 18601	Beach Haven	Luzerne	P.O. Box
+ZIP Code 18602	Bear Creek	Luzerne	P.O. Box
+ZIP Code 18603	Berwick	Columbia	Standard
+ZIP Code 18610	Blakeslee	Monroe	Standard
+ZIP Code 18611	Cambra	Luzerne	P.O. Box
+ZIP Code 18612	Dallas	Luzerne	Standard
+ZIP Code 18614	Dushore	Sullivan	Standard
+ZIP Code 18615	Falls	Wyoming	Standard
+ZIP Code 18616	Forksville	Sullivan	Standard
+ZIP Code 18617	Glen Lyon	Luzerne	Standard
+ZIP Code 18618	Harveys Lake	Luzerne	Standard
+ZIP Code 18619	Hillsgrove	Sullivan	Standard
+ZIP Code 18621	Hunlock Creek	Luzerne	Standard
+ZIP Code 18622	Huntington Mills	Luzerne	Standard
+ZIP Code 18623	Laceyville	Wyoming	Standard
+ZIP Code 18624	Lake Harmony	Carbon	P.O. Box
+ZIP Code 18625	Lake Winola	Wyoming	P.O. Box
+ZIP Code 18626	Laporte	Sullivan	P.O. Box
+ZIP Code 18627	Lehman	Luzerne	P.O. Box
+ZIP Code 18628	Lopez	Sullivan	Standard
+ZIP Code 18629	Mehoopany	Wyoming	Standard
+ZIP Code 18630	Meshoppen	Susquehanna	Standard
+ZIP Code 18631	Mifflinville	Columbia	P.O. Box
+ZIP Code 18632	Mildred	Sullivan	Standard
+ZIP Code 18634	Nanticoke	Luzerne	Standard
+ZIP Code 18635	Nescopeck	Luzerne	Standard
+ZIP Code 18636	Noxen	Wyoming	Standard
+ZIP Code 18640	Pittston	Luzerne	Standard
+ZIP Code 18641	Pittston	Luzerne	Standard
+ZIP Code 18642	Duryea	Luzerne	Standard
+ZIP Code 18643	Pittston	Luzerne	Standard
+ZIP Code 18644	Wyoming	Luzerne	Standard
+ZIP Code 18651	Plymouth	Luzerne	Standard
+ZIP Code 18653	Ransom	Lackawanna	P.O. Box
+ZIP Code 18654	Shawanese	Luzerne	P.O. Box
+ZIP Code 18655	Shickshinny	Luzerne	Standard
+ZIP Code 18656	Sweet Valley	Luzerne	Standard
+ZIP Code 18657	Tunkhannock	Wyoming	Standard
+ZIP Code 18660	Wapwallopen	Luzerne	Standard
+ZIP Code 18661	White Haven	Luzerne	Standard
+ZIP Code 18701	Wilkes Barre	Luzerne	Standard
+ZIP Code 18702	Wilkes Barre	Luzerne	Standard
+ZIP Code 18703	Wilkes Barre	Luzerne	P.O. Box
+ZIP Code 18704	Kingston	Luzerne	Standard
+ZIP Code 18705	Wilkes Barre	Luzerne	Standard
+ZIP Code 18706	Wilkes Barre	Luzerne	Standard
+ZIP Code 18707	Mountain Top	Luzerne	Standard
+ZIP Code 18708	Shavertown	Luzerne	Standard
+ZIP Code 18709	Luzerne	Luzerne	Standard
+ZIP Code 18710	Wilkes Barre	Luzerne	P.O. Box
+ZIP Code 18711	Wilkes Barre	Luzerne	Standard
+ZIP Code 18762	Wilkes Barre	Luzerne	Unique
+ZIP Code 18764	Wilkes Barre	Luzerne	Unique
+ZIP Code 18765	Wilkes Barre	Luzerne	Unique
+ZIP Code 18766	Wilkes Barre	Luzerne	Unique
+ZIP Code 18767	Wilkes Barre	Luzerne	Unique
+ZIP Code 18768	Wilkes Barre	Luzerne	Unique
+ZIP Code 18769	Wilkes Barre	Luzerne	Unique
+ZIP Code 18773	Wilkes Barre	Luzerne	P.O. Box
+ZIP Code 18801	Montrose	Susquehanna	Standard
+ZIP Code 18810	Athens	Bradford	Standard
+ZIP Code 18812	Brackney	Susquehanna	Standard
+ZIP Code 18813	Brooklyn	Susquehanna	P.O. Box
+ZIP Code 18814	Burlington	Bradford	P.O. Box
+ZIP Code 18815	Camptown	Bradford	P.O. Box
+ZIP Code 18816	Dimock	Susquehanna	P.O. Box
+ZIP Code 18817	East Smithfield	Bradford	Standard
+ZIP Code 18818	Friendsville	Susquehanna	Standard
+ZIP Code 18820	Gibson	Susquehanna	P.O. Box
+ZIP Code 18821	Great Bend	Susquehanna	Standard
+ZIP Code 18822	Hallstead	Susquehanna	Standard
+ZIP Code 18823	Harford	Susquehanna	Standard
+ZIP Code 18824	Hop Bottom	Susquehanna	Standard
+ZIP Code 18825	Jackson	Susquehanna	Standard
+ZIP Code 18826	Kingsley	Susquehanna	Standard
+ZIP Code 18827	Lanesboro	Susquehanna	P.O. Box
+ZIP Code 18828	Lawton	Susquehanna	Standard
+ZIP Code 18829	Le Raysville	Bradford	Standard
+ZIP Code 18830	Little Meadows	Susquehanna	Standard
+ZIP Code 18831	Milan	Bradford	Standard
+ZIP Code 18832	Monroeton	Bradford	Standard
+ZIP Code 18833	New Albany	Bradford	Standard
+ZIP Code 18834	New Milford	Susquehanna	Standard
+ZIP Code 18837	Rome	Bradford	Standard
+ZIP Code 18840	Sayre	Bradford	Standard
+ZIP Code 18842	South Gibson	Susquehanna	Standard
+ZIP Code 18843	South Montrose	Susquehanna	P.O. Box
+ZIP Code 18844	Springville	Susquehanna	Standard
+ZIP Code 18845	Stevensville	Bradford	Standard
+ZIP Code 18846	Sugar Run	Bradford	Standard
+ZIP Code 18847	Susquehanna	Susquehanna	Standard
+ZIP Code 18848	Towanda	Bradford	Standard
+ZIP Code 18850	Ulster	Bradford	Standard
+ZIP Code 18851	Warren Center	Bradford	Standard
+ZIP Code 18853	Wyalusing	Bradford	Standard
+ZIP Code 18854	Wysox	Bradford	Standard
+ZIP Code 18901	Doylestown	Bucks	Standard
+ZIP Code 18902	Doylestown	Bucks	Standard
+ZIP Code 18910	Bedminster	Bucks	P.O. Box
+ZIP Code 18911	Blooming Glen	Bucks	P.O. Box
+ZIP Code 18912	Buckingham	Bucks	P.O. Box
+ZIP Code 18913	Carversville	Bucks	Standard
+ZIP Code 18914	Chalfont	Bucks	Standard
+ZIP Code 18915	Colmar	Montgomery	Standard
+ZIP Code 18916	Danboro	Bucks	P.O. Box
+ZIP Code 18917	Dublin	Bucks	Standard
+ZIP Code 18918	Earlington	Montgomery	P.O. Box
+ZIP Code 18920	Erwinna	Bucks	Standard
+ZIP Code 18921	Ferndale	Bucks	P.O. Box
+ZIP Code 18922	Forest Grove	Bucks	P.O. Box
+ZIP Code 18923	Fountainville	Bucks	Standard
+ZIP Code 18925	Furlong	Bucks	Standard
+ZIP Code 18927	Hilltown	Bucks	Standard
+ZIP Code 18928	Holicong	Bucks	P.O. Box
+ZIP Code 18929	Jamison	Bucks	Standard
+ZIP Code 18930	Kintnersville	Bucks	Standard
+ZIP Code 18931	Lahaska	Bucks	P.O. Box
+ZIP Code 18932	Line Lexington	Bucks	Standard
+ZIP Code 18933	Lumberville	Bucks	Standard
+ZIP Code 18934	Mechanicsville	Bucks	Standard
+ZIP Code 18935	Milford Square	Bucks	P.O. Box
+ZIP Code 18936	Montgomeryville	Montgomery	Standard
+ZIP Code 18938	New Hope	Bucks	Standard
+ZIP Code 18940	Newtown	Bucks	Standard
+ZIP Code 18942	Ottsville	Bucks	Standard
+ZIP Code 18943	Penns Park	Bucks	P.O. Box
+ZIP Code 18944	Perkasie	Bucks	Standard
+ZIP Code 18946	Pineville	Bucks	P.O. Box
+ZIP Code 18947	Pipersville	Bucks	Standard
+ZIP Code 18949	Plumsteadville	Bucks	P.O. Box
+ZIP Code 18950	Point Pleasant	Bucks	P.O. Box
+ZIP Code 18951	Quakertown	Bucks	Standard
+ZIP Code 18953	Revere	Bucks	P.O. Box
+ZIP Code 18954	Richboro	Bucks	Standard
+ZIP Code 18955	Richlandtown	Bucks	Standard
+ZIP Code 18956	Rushland	Bucks	P.O. Box
+ZIP Code 18957	Salford	Montgomery	P.O. Box
+ZIP Code 18958	Salfordville	Montgomery	P.O. Box
+ZIP Code 18960	Sellersville	Bucks	Standard
+ZIP Code 18962	Silverdale	Bucks	P.O. Box
+ZIP Code 18963	Solebury	Bucks	P.O. Box
+ZIP Code 18964	Souderton	Montgomery	Standard
+ZIP Code 18966	Southampton	Bucks	Standard
+ZIP Code 18968	Spinnerstown	Bucks	P.O. Box
+ZIP Code 18969	Telford	Montgomery	Standard
+ZIP Code 18970	Trumbauersville	Bucks	P.O. Box
+ZIP Code 18971	Tylersport	Montgomery	P.O. Box
+ZIP Code 18972	Upper Black Eddy	Bucks	Standard
+ZIP Code 18974	Warminster	Bucks	Standard
+ZIP Code 18976	Warrington	Bucks	Standard
+ZIP Code 18977	Washington Crossing	Bucks	Standard
+ZIP Code 18979	Woxall	Montgomery	P.O. Box
+ZIP Code 18980	Wycombe	Bucks	P.O. Box
+ZIP Code 18981	Zionhill	Bucks	P.O. Box
+ZIP Code 18991	Warminster	Bucks	Unique
+ZIP Code 19001	Abington	Montgomery	Standard
+ZIP Code 19002	Ambler	Montgomery	Standard
+ZIP Code 19003	Ardmore	Montgomery	Standard
+ZIP Code 19004	Bala Cynwyd	Montgomery	Standard
+ZIP Code 19006	Huntingdon Valley	Montgomery	Standard
+ZIP Code 19007	Bristol	Bucks	Standard
+ZIP Code 19008	Broomall	Delaware	Standard
+ZIP Code 19009	Bryn Athyn	Montgomery	P.O. Box
+ZIP Code 19010	Bryn Mawr	Delaware	Standard
+ZIP Code 19012	Cheltenham	Montgomery	Standard
+ZIP Code 19013	Chester	Delaware	Standard
+ZIP Code 19014	Aston	Delaware	Standard
+ZIP Code 19015	Brookhaven	Delaware	Standard
+ZIP Code 19016	Chester	Delaware	P.O. Box
+ZIP Code 19017	Chester Heights	Delaware	P.O. Box
+ZIP Code 19018	Clifton Heights	Delaware	Standard
+ZIP Code 19019	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19020	Bensalem	Bucks	Standard
+ZIP Code 19021	Croydon	Bucks	Standard
+ZIP Code 19022	Crum Lynne	Delaware	Standard
+ZIP Code 19023	Darby	Delaware	Standard
+ZIP Code 19025	Dresher	Montgomery	Standard
+ZIP Code 19026	Drexel Hill	Delaware	Standard
+ZIP Code 19027	Elkins Park	Montgomery	Standard
+ZIP Code 19028	Edgemont	Delaware	P.O. Box
+ZIP Code 19029	Essington	Delaware	Standard
+ZIP Code 19030	Fairless Hills	Bucks	Standard
+ZIP Code 19031	Flourtown	Montgomery	Standard
+ZIP Code 19032	Folcroft	Delaware	Standard
+ZIP Code 19033	Folsom	Delaware	Standard
+ZIP Code 19034	Fort Washington	Montgomery	Standard
+ZIP Code 19035	Gladwyne	Montgomery	Standard
+ZIP Code 19036	Glenolden	Delaware	Standard
+ZIP Code 19037	Glen Riddle Lima	Delaware	P.O. Box
+ZIP Code 19038	Glenside	Montgomery	Standard
+ZIP Code 19039	Gradyville	Delaware	P.O. Box
+ZIP Code 19040	Hatboro	Montgomery	Standard
+ZIP Code 19041	Haverford	Montgomery	Standard
+ZIP Code 19043	Holmes	Delaware	Standard
+ZIP Code 19044	Horsham	Montgomery	Standard
+ZIP Code 19046	Jenkintown	Montgomery	Standard
+ZIP Code 19047	Langhorne	Bucks	Standard
+ZIP Code 19048	Fort Washington	Bucks	Unique
+ZIP Code 19049	Fort Washington	Bucks	Unique
+ZIP Code 19050	Lansdowne	Delaware	Standard
+ZIP Code 19052	Lenni	Delaware	P.O. Box
+ZIP Code 19053	Feasterville Trevose	Bucks	Standard
+ZIP Code 19054	Levittown	Bucks	Standard
+ZIP Code 19055	Levittown	Bucks	Standard
+ZIP Code 19056	Levittown	Bucks	Standard
+ZIP Code 19057	Levittown	Bucks	Standard
+ZIP Code 19058	Levittown	Bucks	P.O. Box
+ZIP Code 19060	Garnet Valley	Delaware	Standard
+ZIP Code 19061	Marcus Hook	Delaware	Standard
+ZIP Code 19063	Media	Delaware	Standard
+ZIP Code 19064	Springfield	Delaware	Standard
+ZIP Code 19065	Media	Delaware	P.O. Box
+ZIP Code 19066	Merion Station	Montgomery	Standard
+ZIP Code 19067	Morrisville	Bucks	Standard
+ZIP Code 19070	Morton	Delaware	Standard
+ZIP Code 19072	Narberth	Montgomery	Standard
+ZIP Code 19073	Newtown Square	Delaware	Standard
+ZIP Code 19074	Norwood	Delaware	Standard
+ZIP Code 19075	Oreland	Montgomery	Standard
+ZIP Code 19076	Prospect Park	Delaware	Standard
+ZIP Code 19078	Ridley Park	Delaware	Standard
+ZIP Code 19079	Sharon Hill	Delaware	Standard
+ZIP Code 19081	Swarthmore	Delaware	Standard
+ZIP Code 19082	Upper Darby	Delaware	Standard
+ZIP Code 19083	Havertown	Delaware	Standard
+ZIP Code 19085	Villanova	Delaware	Standard
+ZIP Code 19086	Wallingford	Delaware	Standard
+ZIP Code 19087	Wayne	Delaware	Standard
+ZIP Code 19090	Willow Grove	Montgomery	Standard
+ZIP Code 19091	Media	Delaware	Unique
+ZIP Code 19092	Philadelphia	Philadelphia	Unique
+ZIP Code 19093	Philadelphia	Philadelphia	Unique
+ZIP Code 19094	Woodlyn	Delaware	Standard
+ZIP Code 19095	Wyncote	Montgomery	Standard
+ZIP Code 19096	Wynnewood	Montgomery	Standard
+ZIP Code 19101	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19102	Philadelphia	Philadelphia	Standard
+ZIP Code 19103	Philadelphia	Philadelphia	Standard
+ZIP Code 19104	Philadelphia	Philadelphia	Standard
+ZIP Code 19105	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19106	Philadelphia	Philadelphia	Standard
+ZIP Code 19107	Philadelphia	Philadelphia	Standard
+ZIP Code 19108	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19109	Philadelphia	Philadelphia	Standard
+ZIP Code 19110	Philadelphia	Philadelphia	Standard
+ZIP Code 19111	Philadelphia	Philadelphia	Standard
+ZIP Code 19112	Philadelphia	Philadelphia	Standard
+ZIP Code 19113	Philadelphia	Delaware	Standard
+ZIP Code 19114	Philadelphia	Philadelphia	Standard
+ZIP Code 19115	Philadelphia	Philadelphia	Standard
+ZIP Code 19116	Philadelphia	Philadelphia	Standard
+ZIP Code 19118	Philadelphia	Philadelphia	Standard
+ZIP Code 19119	Philadelphia	Philadelphia	Standard
+ZIP Code 19120	Philadelphia	Philadelphia	Standard
+ZIP Code 19121	Philadelphia	Philadelphia	Standard
+ZIP Code 19122	Philadelphia	Philadelphia	Standard
+ZIP Code 19123	Philadelphia	Philadelphia	Standard
+ZIP Code 19124	Philadelphia	Philadelphia	Standard
+ZIP Code 19125	Philadelphia	Philadelphia	Standard
+ZIP Code 19126	Philadelphia	Philadelphia	Standard
+ZIP Code 19127	Philadelphia	Philadelphia	Standard
+ZIP Code 19128	Philadelphia	Philadelphia	Standard
+ZIP Code 19129	Philadelphia	Philadelphia	Standard
+ZIP Code 19130	Philadelphia	Philadelphia	Standard
+ZIP Code 19131	Philadelphia	Philadelphia	Standard
+ZIP Code 19132	Philadelphia	Philadelphia	Standard
+ZIP Code 19133	Philadelphia	Philadelphia	Standard
+ZIP Code 19134	Philadelphia	Philadelphia	Standard
+ZIP Code 19135	Philadelphia	Philadelphia	Standard
+ZIP Code 19136	Philadelphia	Philadelphia	Standard
+ZIP Code 19137	Philadelphia	Philadelphia	Standard
+ZIP Code 19138	Philadelphia	Philadelphia	Standard
+ZIP Code 19139	Philadelphia	Philadelphia	Standard
+ZIP Code 19140	Philadelphia	Philadelphia	Standard
+ZIP Code 19141	Philadelphia	Philadelphia	Standard
+ZIP Code 19142	Philadelphia	Philadelphia	Standard
+ZIP Code 19143	Philadelphia	Philadelphia	Standard
+ZIP Code 19144	Philadelphia	Philadelphia	Standard
+ZIP Code 19145	Philadelphia	Philadelphia	Standard
+ZIP Code 19146	Philadelphia	Philadelphia	Standard
+ZIP Code 19147	Philadelphia	Philadelphia	Standard
+ZIP Code 19148	Philadelphia	Philadelphia	Standard
+ZIP Code 19149	Philadelphia	Philadelphia	Standard
+ZIP Code 19150	Philadelphia	Philadelphia	Standard
+ZIP Code 19151	Philadelphia	Philadelphia	Standard
+ZIP Code 19152	Philadelphia	Philadelphia	Standard
+ZIP Code 19153	Philadelphia	Philadelphia	Standard
+ZIP Code 19154	Philadelphia	Philadelphia	Standard
+ZIP Code 19155	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19160	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19161	Philadelphia	Philadelphia	Unique
+ZIP Code 19162	Philadelphia	Philadelphia	Unique
+ZIP Code 19170	Philadelphia	Philadelphia	Unique
+ZIP Code 19171	Philadelphia	Philadelphia	Unique
+ZIP Code 19172	Philadelphia	Philadelphia	Unique
+ZIP Code 19173	Philadelphia	Philadelphia	Unique
+ZIP Code 19175	Philadelphia	Philadelphia	Unique
+ZIP Code 19176	Philadelphia	Philadelphia	P.O. Box
+ZIP Code 19177	Philadelphia	Philadelphia	Unique
+ZIP Code 19178	Philadelphia	Philadelphia	Unique
+ZIP Code 19179	Philadelphia	Philadelphia	Unique
+ZIP Code 19181	Philadelphia	Philadelphia	Unique
+ZIP Code 19182	Philadelphia	Philadelphia	Unique
+ZIP Code 19183	Philadelphia	Philadelphia	Unique
+ZIP Code 19184	Philadelphia	Philadelphia	Unique
+ZIP Code 19185	Philadelphia	Philadelphia	Unique
+ZIP Code 19187	Philadelphia	Philadelphia	Unique
+ZIP Code 19188	Philadelphia	Philadelphia	Unique
+ZIP Code 19190	Philadelphia	Philadelphia	Unique
+ZIP Code 19191	Philadelphia	Philadelphia	Unique
+ZIP Code 19192	Philadelphia	Philadelphia	Unique
+ZIP Code 19193	Philadelphia	Philadelphia	Unique
+ZIP Code 19194	Philadelphia	Philadelphia	Unique
+ZIP Code 19195	Philadelphia	Philadelphia	Unique
+ZIP Code 19196	Philadelphia	Philadelphia	Unique
+ZIP Code 19197	Philadelphia	Philadelphia	Unique
+ZIP Code 19244	Philadelphia	Philadelphia	Unique
+ZIP Code 19255	Philadelphia	Philadelphia	Unique
+ZIP Code 19301	Paoli	Chester	Standard
+ZIP Code 19310	Atglen	Chester	Standard
+ZIP Code 19311	Avondale	Chester	Standard
+ZIP Code 19312	Berwyn	Chester	Standard
+ZIP Code 19316	Brandamore	Chester	P.O. Box
+ZIP Code 19317	Chadds Ford	Delaware	Standard
+ZIP Code 19318	Chatham	Chester	P.O. Box
+ZIP Code 19319	Cheyney	Delaware	Standard
+ZIP Code 19320	Coatesville	Chester	Standard
+ZIP Code 19330	Cochranville	Chester	Standard
+ZIP Code 19331	Concordville	Delaware	P.O. Box
+ZIP Code 19333	Devon	Chester	Standard
+ZIP Code 19335	Downingtown	Chester	Standard
+ZIP Code 19339	Concordville	Delaware	Unique
+ZIP Code 19340	Concordville	Delaware	Unique
+ZIP Code 19341	Exton	Chester	Standard
+ZIP Code 19342	Glen Mills	Delaware	Standard
+ZIP Code 19343	Glenmoore	Chester	Standard
+ZIP Code 19344	Honey Brook	Chester	Standard
+ZIP Code 19345	Immaculata	Chester	P.O. Box
+ZIP Code 19346	Kelton	Chester	P.O. Box
+ZIP Code 19347	Kemblesville	Chester	P.O. Box
+ZIP Code 19348	Kennett Square	Chester	Standard
+ZIP Code 19350	Landenberg	Chester	Standard
+ZIP Code 19351	Lewisville	Chester	P.O. Box
+ZIP Code 19352	Lincoln University	Chester	Standard
+ZIP Code 19353	Lionville	Chester	P.O. Box
+ZIP Code 19354	Lyndell	Chester	P.O. Box
+ZIP Code 19355	Malvern	Chester	Standard
+ZIP Code 19357	Mendenhall	Chester	P.O. Box
+ZIP Code 19358	Modena	Chester	P.O. Box
+ZIP Code 19360	New London	Chester	P.O. Box
+ZIP Code 19362	Nottingham	Chester	Standard
+ZIP Code 19363	Oxford	Chester	Standard
+ZIP Code 19365	Parkesburg	Chester	Standard
+ZIP Code 19366	Pocopson	Chester	P.O. Box
+ZIP Code 19367	Pomeroy	Chester	P.O. Box
+ZIP Code 19369	Sadsburyville	Chester	P.O. Box
+ZIP Code 19372	Thorndale	Chester	Standard
+ZIP Code 19373	Thornton	Delaware	Standard
+ZIP Code 19374	Toughkenamon	Chester	Standard
+ZIP Code 19375	Unionville	Chester	P.O. Box
+ZIP Code 19376	Wagontown	Chester	P.O. Box
+ZIP Code 19380	West Chester	Chester	Standard
+ZIP Code 19381	West Chester	Chester	P.O. Box
+ZIP Code 19382	West Chester	Chester	Standard
+ZIP Code 19383	West Chester	Chester	Unique
+ZIP Code 19390	West Grove	Chester	Standard
+ZIP Code 19395	Westtown	Chester	P.O. Box
+ZIP Code 19397	Southeastern	Chester	P.O. Box
+ZIP Code 19398	Southeastern	Chester	P.O. Box
+ZIP Code 19399	Southeastern	Chester	P.O. Box
+ZIP Code 19401	Norristown	Montgomery	Standard
+ZIP Code 19403	Norristown	Montgomery	Standard
+ZIP Code 19404	Norristown	Montgomery	P.O. Box
+ZIP Code 19405	Bridgeport	Montgomery	Standard
+ZIP Code 19406	King Of Prussia	Montgomery	Standard
+ZIP Code 19407	Audubon	Montgomery	P.O. Box
+ZIP Code 19408	Eagleville	Montgomery	P.O. Box
+ZIP Code 19409	Fairview Village	Montgomery	P.O. Box
+ZIP Code 19415	Eagleville	Montgomery	Unique
+ZIP Code 19421	Birchrunville	Chester	P.O. Box
+ZIP Code 19422	Blue Bell	Montgomery	Standard
+ZIP Code 19423	Cedars	Montgomery	P.O. Box
+ZIP Code 19424	Blue Bell	Montgomery	Unique
+ZIP Code 19425	Chester Springs	Chester	Standard
+ZIP Code 19426	Collegeville	Montgomery	Standard
+ZIP Code 19428	Conshohocken	Montgomery	Standard
+ZIP Code 19429	Conshohocken	Montgomery	Unique
+ZIP Code 19430	Creamery	Montgomery	P.O. Box
+ZIP Code 19432	Devault	Chester	P.O. Box
+ZIP Code 19435	Frederick	Montgomery	Standard
+ZIP Code 19436	Gwynedd	Montgomery	Standard
+ZIP Code 19437	Gwynedd Valley	Montgomery	P.O. Box
+ZIP Code 19438	Harleysville	Montgomery	Standard
+ZIP Code 19440	Hatfield	Montgomery	Standard
+ZIP Code 19441	Harleysville	Montgomery	Unique
+ZIP Code 19442	Kimberton	Chester	P.O. Box
+ZIP Code 19443	Kulpsville	Montgomery	P.O. Box
+ZIP Code 19444	Lafayette Hill	Montgomery	Standard
+ZIP Code 19446	Lansdale	Montgomery	Standard
+ZIP Code 19450	Lederach	Montgomery	P.O. Box
+ZIP Code 19451	Mainland	Montgomery	P.O. Box
+ZIP Code 19453	Mont Clare	Montgomery	Standard
+ZIP Code 19454	North Wales	Montgomery	Standard
+ZIP Code 19455	North Wales	Montgomery	Unique
+ZIP Code 19456	Oaks	Montgomery	P.O. Box
+ZIP Code 19457	Parker Ford	Chester	P.O. Box
+ZIP Code 19460	Phoenixville	Chester	Standard
+ZIP Code 19462	Plymouth Meeting	Montgomery	Standard
+ZIP Code 19464	Pottstown	Montgomery	Standard
+ZIP Code 19465	Pottstown	Chester	Standard
+ZIP Code 19468	Royersford	Montgomery	Standard
+ZIP Code 19470	Saint Peters	Chester	P.O. Box
+ZIP Code 19472	Sassamansville	Montgomery	P.O. Box
+ZIP Code 19473	Schwenksville	Montgomery	Standard
+ZIP Code 19474	Skippack	Montgomery	P.O. Box
+ZIP Code 19475	Spring City	Chester	Standard
+ZIP Code 19477	Spring House	Montgomery	Standard
+ZIP Code 19478	Spring Mount	Montgomery	P.O. Box
+ZIP Code 19480	Uwchland	Chester	P.O. Box
+ZIP Code 19481	Valley Forge	Chester	P.O. Box
+ZIP Code 19482	Valley Forge	Chester	P.O. Box
+ZIP Code 19484	Valley Forge	Montgomery	P.O. Box
+ZIP Code 19486	West Point	Montgomery	P.O. Box
+ZIP Code 19490	Worcester	Montgomery	P.O. Box
+ZIP Code 19492	Zieglerville	Montgomery	Standard
+ZIP Code 19493	Valley Forge	Chester	Unique
+ZIP Code 19494	Valley Forge	Chester	Unique
+ZIP Code 19495	Valley Forge	Chester	Unique
+ZIP Code 19496	Valley Forge	Chester	Unique
+ZIP Code 19501	Adamstown	Lancaster	P.O. Box
+ZIP Code 19503	Bally	Berks	Standard
+ZIP Code 19504	Barto	Berks	Standard
+ZIP Code 19505	Bechtelsville	Berks	Standard
+ZIP Code 19506	Bernville	Berks	Standard
+ZIP Code 19507	Bethel	Berks	Standard
+ZIP Code 19508	Birdsboro	Berks	Standard
+ZIP Code 19510	Blandon	Berks	Standard
+ZIP Code 19511	Bowers	Berks	P.O. Box
+ZIP Code 19512	Boyertown	Berks	Standard
+ZIP Code 19516	Centerport	Berks	P.O. Box
+ZIP Code 19518	Douglassville	Berks	Standard
+ZIP Code 19519	Earlville	Berks	P.O. Box
+ZIP Code 19520	Elverson	Chester	Standard
+ZIP Code 19522	Fleetwood	Berks	Standard
+ZIP Code 19523	Geigertown	Berks	P.O. Box
+ZIP Code 19525	Gilbertsville	Montgomery	Standard
+ZIP Code 19526	Hamburg	Berks	Standard
+ZIP Code 19529	Kempton	Berks	Standard
+ZIP Code 19530	Kutztown	Berks	Standard
+ZIP Code 19533	Leesport	Berks	Standard
+ZIP Code 19534	Lenhartsville	Berks	Standard
+ZIP Code 19535	Limekiln	Berks	P.O. Box
+ZIP Code 19536	Lyon Station	Berks	P.O. Box
+ZIP Code 19538	Maxatawny	Berks	P.O. Box
+ZIP Code 19539	Mertztown	Berks	Standard
+ZIP Code 19540	Mohnton	Berks	Standard
+ZIP Code 19541	Mohrsville	Berks	Standard
+ZIP Code 19543	Morgantown	Berks	Standard
+ZIP Code 19544	Mount Aetna	Berks	P.O. Box
+ZIP Code 19545	New Berlinville	Berks	P.O. Box
+ZIP Code 19547	Oley	Berks	Standard
+ZIP Code 19548	Pine Forge	Berks	P.O. Box
+ZIP Code 19549	Port Clinton	Schuylkill	P.O. Box
+ZIP Code 19550	Rehrersburg	Berks	P.O. Box
+ZIP Code 19551	Robesonia	Berks	Standard
+ZIP Code 19554	Shartlesville	Berks	P.O. Box
+ZIP Code 19555	Shoemakersville	Berks	Standard
+ZIP Code 19559	Strausstown	Berks	P.O. Box
+ZIP Code 19560	Temple	Berks	Standard
+ZIP Code 19562	Topton	Berks	Standard
+ZIP Code 19564	Virginville	Berks	P.O. Box
+ZIP Code 19565	Wernersville	Berks	Standard
+ZIP Code 19567	Womelsdorf	Berks	Standard
+ZIP Code 19601	Reading	Berks	Standard
+ZIP Code 19602	Reading	Berks	Standard
+ZIP Code 19603	Reading	Berks	P.O. Box
+ZIP Code 19604	Reading	Berks	Standard
+ZIP Code 19605	Reading	Berks	Standard
+ZIP Code 19606	Reading	Berks	Standard
+ZIP Code 19607	Reading	Berks	Standard
+ZIP Code 19608	Reading	Berks	Standard
+ZIP Code 19609	Reading	Berks	Standard
+ZIP Code 19610	Reading	Berks	Standard
+ZIP Code 19611	Reading	Berks	Standard
+ZIP Code 19612	Reading	Berks	P.O. Box
