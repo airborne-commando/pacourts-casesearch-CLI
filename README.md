@@ -72,7 +72,6 @@ Smith_John_PHILADELPHIA_Traffic_20230815_142356.csv
 ## Configuration
 
 Edit the script to:
-- Enable headless mode (uncomment `--headless`)
 - Change default wait times
 - Modify logging behavior
 
